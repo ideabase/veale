@@ -1,0 +1,185 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.site-header {
+	background-color: white;
+}
+.main-navigation {
+	background-color: #0BA0C0;
+	border:1px solid #0BA0C0;
+	border-radius: 3px;
+}
+.site-header a {
+	color: white;
+}
+
+body {
+	font-family: 'Varela Round', sans-serif;
+	border-color: white;
+	font-size: 13px;
+}
+.site-footer {
+	background-color: white;
+}
+
+.footer-widget-title {
+	color: #00cfb5;
+}
+	
+.main-menu li {
+	border-color: white;
+}
+.search-form form input
+{background-color:#0BA0C0;
+border: none;
+color: #fff;
+border-radius:3px;
+}
+
+::-webkit-input-placeholder {
+   color: white;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: white;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: white;  
+}
+
+:-ms-input-placeholder {  
+   color: white;  
+}
+.main-menu li ul{
+	border-color:#FFF;
+	background-color:#8b8b8b
+;
+	}
+.mainBtn, .request-information .submit_field .mainBTN, .tag-items a, 
+.social_icons li a, .footer-media-icons li a, .flex-direction-nav a {
+	background-color: #41a991;
+}
+.s-month, #slider-testimonials .prev, #slider-testimonials .next, .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{
+	background-color:#41a991;
+}
+.header-left {
+	margin-top: 0px;
+}
+.main-menu li ul li {
+	border-color:#FFF;
+}
+.menu-toggle-btn {
+	color: #003a64; 
+	background-color: #006684;
+}
+.menu-toggle-btn {
+	color: #fff;
+}
+.current_page_item a{
+	color: #fff;
+}
+body {
+	background-color: #E7E7E7;
+}
+.sidebar .fetched_tweets .widget-main ul li {
+  line-height: inherit;
+   list-style-type: none;
+}
+
+.sidebar .widget-main ul {
+  	margin: 0;
+  	list-style-position: outside;
+ 	list-style-type: none;
+
+}
+
+.main-slideshow {
+	height: 398px;}
+
+
+.bottom-footer {
+  border-top: 0px solid;
+}
+@media screen and (max-width: 768px) {
+	.main_menu {background-color: #32434D;}
+	.main_menu a {color: #E3F4F1;}
+	}
+	
+blockquote {
+  border-left: 0;
+  background-color: #FFF;}
+  
+.testimonials-widget-testimonial div.credit {
+  display: block;
+  margin-top: .2em;
+  text-align: right;
+  margin: 0 1em;
+}
+.flexslider img {
+min-height: inherit;
+}
+
+.main-slideshow {
+height: inherit;
+}
+
+.flexslider {
+height: inherit;}
+
+@media screen and (max-width: 991px) {
+     .header-left, .header-right {
+           margin-top: 0;
+      }
+}
+.logo img { max-width: 100%; }
+  
+.addtoany_list {line-height: 60px;}
+.a2a_target {line-height: 60px;}
+.alignleft {
+    float: left;
+    margin: 10px 20px 15px 0;}
+
+.contact-heading h3 {
+    font-size: 22px;
+    font-weight: 500;
+    margin: 5px 0 30px 0;}
+
+.blog-list-thumb2 {
+   float: left;
+   width: 125px;
+   height: auto;
+   display: block;
+   margin-right: 15px;}
+
+ h3[style] {
+ border-bottom: 0px solid !important;}
+
+.form1 .wdform_page {
+    font-family: 'Varela Round', sans-serif;
+}
+
+.video-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	height: 0;
+	overflow: hidden;
+}
+
+.video-container iframe,  
+.video-container object,  
+.video-container embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.entry-content img, 
+.entry-content iframe, 
+.entry-content object, 
+.entry-content embed {
+        max-width: 100%;
+}

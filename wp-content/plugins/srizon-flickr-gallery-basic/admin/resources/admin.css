@@ -1,0 +1,236 @@
+.srz-admin-subtext {
+    color: #aaa;
+    font-style: italic;
+    margin: 0;
+    padding-top: .5em;
+}
+
+table.srzflickr-admin-common tr td {
+    vertical-align: top;
+    padding: 10px;
+}
+
+table.srzflickr-admin-common tr td span.label {
+    display: inline-block;
+    padding-top: 5px;
+}
+
+table.srzflickr-admin-album tr td {
+    vertical-align: top;
+    padding: 10px;
+}
+
+table.srzflickr-admin-album tr td input {
+    margin-bottom: 5px;
+}
+
+table.srzflickr-admin-album tr td input[type="radio"] {
+    margin-top: 3px;
+}
+
+table.srzflickr-admin-gallery tr td {
+    vertical-align: top;
+    padding: 10px;
+}
+
+.postbox .handlediv:before {
+    right: 12px;
+    font: 400 20px/1 dashicons;
+    speak: none;
+    display: inline-block;
+    padding: 8px 10px;
+    top: 0;
+    position: relative;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-decoration: none !important;
+    content: '\f142';
+}
+
+.postbox.closed .handlediv:before {
+    content: '\f140';
+}
+
+h3.hndle2 {
+    cursor: pointer;
+    border-bottom: 1px solid #eeeeee;
+}
+
+h3.hndle2 span {
+    padding: 10px;
+    /*color: grey;*/
+}
+
+#box-what-to-do h3 {
+    background-color: #f4d32c;
+}
+
+table.srzflickralbumtable tr td {
+    padding: 20px;
+    border-bottom: 1px solid #efefef;
+}
+
+table.srzflickralbumtable tr th {
+    padding: 20px;
+    font-weight: bold;
+    font-size: 120%;
+    color: grey;
+}
+
+th.last-table-head, td.last-table-head {
+    text-align: right;
+}
+
+a.button.delete {
+    color: #ff4648;
+}
+
+/*album table*/
+
+.album-table img {
+    max-width: 100%;
+    height: auto;
+}
+
+.album-table:before, .album-table:after{
+    display: table;
+    content: "";
+}
+
+.album-table:after{
+    clear: both;
+}
+
+.album-table .srzrow > div {
+    padding: 10px;
+}
+
+.srz-album-title {
+    padding-left: 10px;
+}
+
+.album-table .srzrow > div.first {
+    text-align: right;
+}
+
+.album-table h3 {
+    margin-top: 3px;
+}
+
+@media (max-width: 480px) {
+    .album-table .srzrow > div.first {
+        text-align: center;
+    }
+}
+
+/*small grid system*/
+
+.srzrow {
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.srzrow:before, .srzrow:after {
+    display: table;
+    content: "";
+}
+
+.srzrow:after{
+    clear:both;
+}
+
+.srzrow > div {
+    margin: 0;
+    float: left;
+    box-sizing: border-box;
+}
+
+.srzcol-1 {
+    width: 10%;
+}
+
+.srzcol-2 {
+    width: 20%;
+}
+
+.srzcol-3 {
+    width: 30%;
+}
+
+.srzcol-4 {
+    width: 40%;
+}
+
+.srzcol-5 {
+    width: 50%;
+}
+
+.srzcol-6 {
+    width: 60%;
+}
+
+.srzcol-7 {
+    width: 70%;
+}
+
+.srzcol-8 {
+    width: 80%;
+}
+
+.srzcol-9 {
+    width: 90%;
+}
+
+.srzcol-10 {
+    width: 100%;
+}
+
+@media (max-width: 480px) {
+    .srzrow > div {
+        width: 100%;
+    }
+
+    .srzcol-s1 {
+        width: 10%;
+    }
+
+    .srzcol-s2 {
+        width: 20%;
+    }
+
+    .srzcol-s3 {
+        width: 30%;
+    }
+
+    .srzcol-s4 {
+        width: 40%;
+    }
+
+    .srzcol-s5 {
+        width: 50%;
+    }
+
+    .srzcol-s6 {
+        width: 60%;
+    }
+
+    .srzcol-s7 {
+        width: 70%;
+    }
+
+    .srzcol-s8 {
+        width: 80%;
+    }
+
+    .srzcol-s9 {
+        width: 90%;
+    }
+
+    .srzcol-s10 {
+        width: 100%;
+    }
+}

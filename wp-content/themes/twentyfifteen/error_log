@@ -1,0 +1,8 @@
+[27-Sep-2015 20:21:57 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/vealefoundtv/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[28-Sep-2015 04:31:43 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/vealefoundtv/public_html/wp-content/themes/twentyfifteen/functions.php on line 41
+[29-Oct-2015 05:39:14 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/vealefoundtv/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[29-Oct-2015 08:59:30 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/vealefoundtv/public_html/wp-content/themes/twentyfifteen/functions.php on line 41
+[17-Mar-2016 07:30:44 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/vealefoundtv/public_html/wp-content/themes/twentyfifteen/functions.php on line 41
+[20-Mar-2016 13:52:32 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/vealefoundtv/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[19-Aug-2016 01:56:56 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/vealefoundtv/public_html/wp-content/themes/twentyfifteen/functions.php on line 41
+[25-Aug-2016 03:05:51 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/vealefoundtv/public_html/wp-content/themes/twentyfifteen/404.php on line 10

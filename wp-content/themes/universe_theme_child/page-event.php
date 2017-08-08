@@ -30,22 +30,29 @@ get_header(); ?>
 
                 <h4>Step 1: Register your school</h4>
                 <p>Don't worry, you don't have to know all the details</p>
-                <a href="/school-partner-registration/"> Register Your School</a>
+                <a href="/school-partner-registration/"> Register School</a>
 
                 <h4>Step 2: Submit Challenge Entries</h4>
-                <p>$9,000 in Prizes. Be named a Veale Innovator * Prizes for Your School * Traveling Trophy</p>
-                <a href="/thinkbig-challenge-entry-submission/"> Submit your Entry</a>
+                <p>
+                <ul>
+                <li>$9,000 in Prizes</li>
+                <li> Be named a Veale Innovator </li>
+                <li> Prizes for Your School </li>
+                <li> Traveling Trophy</li>
+                </p>
+
+                </ul>
+                <a href="/thinkbig-challenge-entry-submission/"> Submit Entries & View Resources</a>
 
                 <h4>Step 3: Attend the Summit</h4>
                 <p>Inspire your students. Plus, it's free! (Get more info & register.)</p>
-                <a href="/summit-registration/"> Get More Info</a>
+                <a href="/summit-registration/"> Find Out More</a>
               </section>
 
-              <section>
-                <h4>About the Summit </h4>
-                <p>Speaker Lineup Coming Soon</p>
-              </section>
 
+
+
+<!--
               <section>
                 <h4>Presenting Sponsors</h4>
                 <h5>Sponsors:</h5>
@@ -73,14 +80,27 @@ get_header(); ?>
                   <li>Others to be determined</li>
                 </ul>
               </section>
+!-->
+
+<section>
+<h3> The thinkBIG! Summit </h3>
+<h5> What is the thinkBIG! Summit? </h5>
+<p> A unique, one-day conference featuring panels of
+national and local Gen Z and millennial entrepreneurs,
+mini maker hackathon sessions, Final Four Challenge
+team pitches, awards, prizes, networking and more!
+The Summit is open to all students, whether or not they
+compete in the Challenge. </p>
+<h4>Our Lineup, Speakers, & Agenda are Coming Soon!</h4>
+</section>
+
+
 
 
               <footer>
-              <h5>Contact Us:</h5>
               <a href="mailto:info@vealefound.org"> info@vealefound.org</a>
               <p>216.255.3179</p>
-              <address>30195 Chagrin Blvd. Suite 310
-                Pepper Pike, Ohio 44124 </address>
+              <address>30195 Chagrin Blvd. Suite 310 Pepper Pike, Ohio 44124 </address>
               </footer>
 
 

@@ -16,38 +16,69 @@ get_header(); ?>
                    <div class="widget-main">
                        <div class="widget-inner">
 
-              <header>
-                <img src="/wp-content/uploads/IdeaBase_Logo_HorizontalColor.png" alt="Logo"/>
-                <h3>2.27.18</h3>
-                <h4>3 hours 50 minutes 27 seconds until date of event!</h4>
-                <h4>Registration is now open!</h4>
-              </header>
+            <header class="event-header">
+           	<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/light-bulb-downsized.jpg" alt="Lightbulb" />
+              <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/thinkBIGlogo-01.svg" alt="thinkBIG! - Veale Innovation Challenge & Summit"/>
+           		<h2>Join Us For the Challenge</h2>
+               <h3>2.27.18</h3>
+               <!-- Display the countdown timer in an element -->
+         <p id="demo"></p>
 
-              <section>
-                <h4>WHAT IS THE THINKBIG! SUMMIT?</h4>
+         <script>
+         // Set the date we're counting down to
+         var countDownDate = new Date("Feb 27, 2018 15:37:25").getTime();
 
-                <div class="main-content"><?php the_content(); ?></div>
+         // Update the count down every 1 second
+         var x = setInterval(function() {
 
-                <h4>Step 1: Register your school</h4>
-                <p>Don't worry, you don't have to know all the details</p>
-                <a href="/school-partner-registration/"> Register School</a>
+           // Get todays date and time
+           var now = new Date().getTime();
 
-                <h4>Step 2: Submit Challenge Entries</h4>
-                <p>
-                <ul>
-                <li>$9,000 in Prizes</li>
-                <li> Be named a Veale Innovator </li>
-                <li> Prizes for Your School </li>
-                <li> Traveling Trophy</li>
-                </p>
+           // Find the distance between now an the count down date
+           var distance = countDownDate - now;
 
-                </ul>
-                <a href="/thinkbig-challenge-entry-submission/"> Submit Entries & View Resources</a>
+           // Time calculations for days, hours, minutes and seconds
+           var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+           var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+           var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+           var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-                <h4>Step 3: Attend the Summit</h4>
-                <p>Inspire your students. Plus, it's free! (Get more info & register.)</p>
-                <a href="/summit-registration/"> Find Out More</a>
-              </section>
+           // Display the result in the element with id="demo"
+           document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+           + minutes + "m " + seconds + "s ";
+
+           // If the count down is finished, write some text
+           if (distance < 0) {
+             clearInterval(x);
+             document.getElementById("demo").innerHTML = "EXPIRED";
+           }
+         }, 1000);
+         </script>
+             </header>
+
+      <section class="event-body">
+     <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/placeholder-image.jpg" alt="Students" />
+     <div class="event-introduction">ThinkBIG! is a high school innovation Challenge and Summit that inspires youth to use creativity and collaboration to create big, innovative busi- ness ideas that promise to make Northeast Ohio even better.</div>
+     <h2>Join Us in 3 Easy Steps</h2>
+     <h3>Step 1: Register your school</h3>
+      <p>Don't worry, you don't have to know all the details</p>
+     <a href="/school-partner-registration/"> Register School</a>
+     <h3>Step 2: Submit Challenge Entries</h3>
+         <ul>
+           <li>$9,000 in Prizes</li>
+            <li> Be named a Veale Innovator </li>
+             <li> Prizes for Your School </li>
+            <li> Traveling Trophy</li>
+      	</ul>
+     <a href="/thinkbig-challenge-entry-submission/"> Submit Entries & View Resources</a>
+     <h3>Step 3: Attend the Summit</h3>
+     <p>Inspire your students. Plus, it's free! (Get more info & register.)</p>
+      <a href="/summit-registration/"> Find Out More</a>
+      </section>
+
+
+
+
 
 
 
@@ -82,27 +113,48 @@ get_header(); ?>
               </section>
 !-->
 
-<section>
-<h3> The thinkBIG! Summit </h3>
-<h5> What is the thinkBIG! Summit? </h5>
+<section class="event-details">
+<h2> The thinkBIG! Summit </h2>
+<div class="event-details-introduction">
+<h3> What is the thinkBIG! Summit? </h3>
 <p> A unique, one-day conference featuring panels of
 national and local Gen Z and millennial entrepreneurs,
-mini maker hackathon sessions, Final Four Challenge
-team pitches, awards, prizes, networking and more!
-The Summit is open to all students, whether or not they
-compete in the Challenge. </p>
+mini maker hackathon sessions, Final Four Challenge team pitches, awards, prizes, networking and more!
+The Summit is open to all students, whether or not they compete in the Challenge. </p>
 <h4>Our Lineup, Speakers, & Agenda are Coming Soon!</h4>
 </section>
 
+<section class="event-partners">
+	<h3>Sponsors & Partners</h3>
+	<h4>Sponsors</h4>
+	<ul>
+		<li>Sponsor Logo</li>
+		<li>Sponsor Logo</li>
+	</ul>
+	<h4>Partners</h4>
+	<ul>
+		<li>Partner Logo</li>
+		<li>Partner Logo</li>
+	</ul>
+	<h4>Participating Schools</h4>
+	<ul>
+		<li>School Name</li>
+		<li>School Name</li>
+	</ul>
+	<h4>Advisors</h4>
+	<ul>
+		<li>Advisor Name</li>
+		<li>Advisor Name</li>
+	</ul>
+</section>
 
 
-
-              <footer>
-              <a href="mailto:info@vealefound.org"> info@vealefound.org</a>
-              <p>216.255.3179</p>
-              <address>30195 Chagrin Blvd. Suite 310 Pepper Pike, Ohio 44124 </address>
-              </footer>
-
+<footer class="event-footer">
+	<h3>Contact thinkBIG!</h3>
+	<a href="mailto:info@vealefound.org"> info@vealefound.org</a>
+  <p>216.255.3179</p>
+  <address>30195 Chagrin Blvd. Suite 310 Pepper Pike, Ohio 44124 </address>
+</footer>
 
 
                 <?php the_content(); ?>

@@ -476,10 +476,7 @@ blockquote h5 {
   margin-top: 15px;
 }
 
-input, select {
-  border: none;
-  outline: none;
-}
+
 
 .mainBtn,
 .request-information .submit_field .mainBtn,
@@ -1055,7 +1052,7 @@ input, select {
   margin: -12px 0 0 0;
   line-height: 12px;
 }
-.contact-form input, 
+.contact-form input,
 .contact-form textarea {
   border: 1px solid;
   font-size: 12px;
@@ -1154,7 +1151,7 @@ input, select {
   width: 30%;
   margin-right: 3%;
   margin-top: 20px;
-  margin-bottom: 20px;	
+  margin-bottom: 20px;
 }
 .wpas-taxonomy-field input, .wpas-taxonomy-field select {
   width: 100%;
@@ -1293,11 +1290,11 @@ input, select {
 	border: 1px solid #d5dbe0;
 	font-size: 12px;
 	padding: 0 10px;
-	outline: 0;	
+	outline: 0;
 }
 
-.gallery-caption { 
-    margin-left: 0; 
+.gallery-caption {
+    margin-left: 0;
     margin-bottom: 10px;
     padding: 0px 10px;
 }
@@ -1480,7 +1477,7 @@ td {
 	left: 75px;
 	width: 600px;
 	display: block;
-	
+
 }
 
 .comment-body .says {
@@ -1509,21 +1506,21 @@ td {
 	overflow: hidden;
 }
 
-.sidebar .widget-main ul, 
+.sidebar .widget-main ul,
 .sidebar .widget-main .tagcloud,
 .sidebar .widget-main #calendar_wrap,
 .sidebar .widget-main .search-form,
 .sidebar .widget-main #flickr_tab,
 .sidebar .widget-main .textwidget,
 .widget-main #mc_signup {
-	padding: 20px;	
+	padding: 20px;
 }
 
 .footer-widget .textwidget img,
 .sidebar .widget-main .textwidget img{
 	max-width: 100%;
 	height: auto;
-	
+
 }
 .widget-main select {
 	padding: 20px;
@@ -1552,7 +1549,7 @@ footer .widget-main-title {
 footer .widget-main-title {
 	background: none;
 	border: none;
-	
+
 }
 
 footer .widget-title {
@@ -1732,7 +1729,7 @@ footer .widget-title {
 .footer-widget .calendar-small {
 	width: 40px;
 	height: 50px;
-	
+
 }
 
 .footer-widget .calendar-small .s-month {
@@ -1787,7 +1784,7 @@ footer .widget-title {
 .wpcf7 input[type="password"],
 textarea {
 	border: 1px solid #d5dbe0;
-	
+
 }
 
 .wpcf7-submit {
@@ -1830,7 +1827,7 @@ textarea {
 }
 
 
-.use-floating-validation-tip .wpcf7-not-valid-tip { 
+.use-floating-validation-tip .wpcf7-not-valid-tip {
 	position: absolute;
 	top: 20%;
 	left: 20%;
@@ -1863,5 +1860,5 @@ textarea {
 }
 
 .contact-map .google-map-canvas {
-	height: 547px!important; 
+	height: 547px!important;
 }

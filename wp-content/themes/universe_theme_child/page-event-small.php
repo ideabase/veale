@@ -18,7 +18,7 @@ get_header();
                    <div class="widget-inner">
 
 <header>
-  <img src="/wp-content/uploads/IdeaBase_Logo_HorizontalColor.png" alt="Logo"/>
+  <img src="/wp-content/themes/universe_theme_child/ui/thinkBIGlogo-01.svg" alt="Logo"/>
 </header>
 
 

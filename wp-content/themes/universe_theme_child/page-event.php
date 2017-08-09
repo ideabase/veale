@@ -17,47 +17,17 @@ get_header(); ?>
                        <div class="widget-inner">
 
             <header class="event-header">
-           	<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/light-bulb-downsized.jpg" alt="Lightbulb" />
-              <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/thinkBIGlogo-01.svg" alt="thinkBIG! - Veale Innovation Challenge & Summit"/>
+           	<img src="/wp-content/themes/universe_theme_child/ui/light-bulb-downsized.jpg" alt="Lightbulb" />
+              <img src="/wp-content/themes/universe_theme_child/ui/thinkBIGlogo-01.svg" alt="thinkBIG! - Veale Innovation Challenge & Summit"/>
            		<h2>Join Us For the Challenge</h2>
                <h3>2.27.18</h3>
                <!-- Display the countdown timer in an element -->
-         <p id="demo"></p>
+               <p id="demo"></p> <!-- Time element !-->
 
-         <script>
-         // Set the date we're counting down to
-         var countDownDate = new Date("Feb 27, 2018 15:37:25").getTime();
-
-         // Update the count down every 1 second
-         var x = setInterval(function() {
-
-           // Get todays date and time
-           var now = new Date().getTime();
-
-           // Find the distance between now an the count down date
-           var distance = countDownDate - now;
-
-           // Time calculations for days, hours, minutes and seconds
-           var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-           var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-           var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-           var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-           // Display the result in the element with id="demo"
-           document.getElementById("demo").innerHTML = days + "d " + hours + "h "
-           + minutes + "m " + seconds + "s ";
-
-           // If the count down is finished, write some text
-           if (distance < 0) {
-             clearInterval(x);
-             document.getElementById("demo").innerHTML = "EXPIRED";
-           }
-         }, 1000);
-         </script>
              </header>
 
       <section class="event-body">
-     <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/placeholder-image.jpg" alt="Students" />
+     <img src="/wp-content/themes/universe_theme_child/ui/placeholder-image.jpg" alt="Students" />
      <div class="event-introduction">ThinkBIG! is a high school innovation Challenge and Summit that inspires youth to use creativity and collaboration to create big, innovative busi- ness ideas that promise to make Northeast Ohio even better.</div>
      <h2>Join Us in 3 Easy Steps</h2>
      <h3>Step 1: Register your school</h3>
@@ -147,6 +117,8 @@ The Summit is open to all students, whether or not they compete in the Challenge
 		<li>Advisor Name</li>
 	</ul>
 </section>
+
+<script src="/wp-content/themes/universe_theme_child/event-scripts.js"></script>
 
 
 <footer class="event-footer">

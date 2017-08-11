@@ -138,6 +138,7 @@ h1.headtext {
 	background-color: #78BE20;
 	-webkit-clip-path: polygon(50% 91%, 0 0, 100% 0);
 clip-path: polygon(50% 91%, 0 0, 100% 0);
+margin-top: -1px;
 }
 
 .step-container {

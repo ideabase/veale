@@ -47,7 +47,7 @@ get_header(); ?>
 	</div>
 	<div class="step-container__details step-container__details--step-1">
 		<h3 class="step-1 step">Step 1:</h3>
-		<h3 class="step-title">Register your school</h3>
+		<h3 class="step-title">Register Your School</h3>
 	 <p class="step-description">Don't worry, you don't have to know all the details</p>
 	<a class="btn step-1-btn" href="/school-partner-registration/"> Register School</a>
 		</div>
@@ -77,7 +77,7 @@ get_header(); ?>
 		<div class="step-container__details step-container__details--step-3">
 			<h3 class="step-3 step">Step 3:</h3>
 			<h3 class="step-title">Attend the Summit</h3>
-	<p class="step-description">Inspire your students. Plus, it's free!</p>
+	<p class="step-description">Inspire your students. Plus, it's free! (Registration Coming Soon)</p>
 	 <a class="btn step-3-btn" href="#summit"> Find Out More</a>
 		</div>
 	</div>
@@ -93,7 +93,7 @@ national and local Gen Z and millennial entrepreneurs,
 mini maker hackathon sessions, Final Four Challenge team pitches, awards, prizes, networking and more!
 The Summit is open to all students, whether or not they compete in the Challenge. </p>
 	</div>
-<h4 class="coming-soon">Our Lineup, Speakers, & Agenda are Coming Soon!</h4>
+<h4 class="coming-soon">Our Lineup, Speakers & Agenda Are Coming Soon!</h4>
 </section>
 <section class="event-partners">
 	<h2 class="event-h2">Sponsors & Partners</h2>

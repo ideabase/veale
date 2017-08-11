@@ -17,24 +17,29 @@ get_header();
                <div class="widget-main">
                    <div class="widget-inner">
 
-<header>
-  <img src="/wp-content/themes/universe_theme_child/ui/thinkBIGlogo-01.svg" alt="Logo"/>
+<header class="event-header">
+  <a class="event-header__logo" href="/programs/thinkbig">
+    <img src="/wp-content/themes/universe_theme_child/ui/thinkBIGlogo-01.svg" alt="thinkBIG! - Veale Innovation Challenge & Summit"/>
+  </div>
 </header>
-
-
-
+<section class="event-form">
 <?php the_content(); ?>
 <?php wp_link_pages(); ?>
-       </div> <!-- /.widget-inner -->
-
-       <footer>
-       <h5>Contact Us:</h5>
-       <a href="mailto:info@vealefound.org"> info@vealefound.org</a>
-       <p>216.255.3179</p>
-       <address>30195 Chagrin Blvd. Suite 310
-         Pepper Pike, Ohio 44124 </address>
+</section>
+       <footer class="event-footer">
+       	<h3 class="event-footer__title">Contact thinkBIG!</h3>
+       	<div class="event-footer__info">
+       		<div class='event-footer__left'>
+       		<a class="email" href="mailto:info@vealefound.org"> info@vealefound.org</a>
+       		<p>216.255.3179</p>
+       		</div>
+       		<div class='event-footer__right'>
+       		<address>30195 Chagrin Blvd. Suite 310<br /> Pepper Pike, Ohio 44124 </address>
+       		</div>
+       	</div>
        </footer>
 
+     </div> <!-- /.widget-inner -->
    </div> <!-- /.widget-main -->
     <?php endwhile; else : ?>
       <p><?php _e( 'No posts found.', CORE_THEME_NAME ); ?></p>

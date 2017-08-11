@@ -1,0 +1,462 @@
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+
+.page-title {
+  display: none;
+}
+
+.site-footer {
+  margin-top: 0;
+}
+
+.widget-inner {
+  padding: 0;
+}
+
+h2, .event-h2 {
+	margin-top: 2em;
+	margin-bottom: 2em;
+	font-weight: bold;
+  font-size: 2.5em;
+}
+
+h3 {
+	text-transform: uppercase;
+}
+
+h3.step-title {
+  text-transform: uppercase;
+  color: black;
+  font-weight: bold;
+  font-size: 1.7em;
+}
+
+.event-feature {
+	max-height: 350px;
+	overflow: hidden;
+}
+
+.container {
+	background-color: white;
+	max-width: 1200px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+}
+
+img {
+	max-width: 100%;
+  height: auto;
+}
+
+.event-header__text {
+	padding: 0 1em;
+}
+
+.step-description {
+	color: rgba(0,0,0,.9);
+	font-size: 1.1em;
+	margin-top: 1em;
+	margin-bottom: 2em;
+}
+
+.what-is__title {
+	color: white;
+	margin-bottom: 1em;
+}
+
+.headtext__title {
+	color: #78BE20;
+	margin: 0;
+	text-transform: uppercase;
+	font-weight: 300;
+	font-size: 1.5em;
+	margin-top: 1.5em;
+	margin-bottom: 0;
+}
+
+.headtext__date {
+	color: #78BE20;
+	font-weight: bold;
+	margin:0;
+	font-size: 3em;
+}
+
+.headtext__countdown {
+	color: #78BE20;
+	font-size: 2.75em;
+	font-weight: 300;
+}
+
+h2.headtext {
+	margin-top: 0.5em;
+}
+
+h1.headtext {
+	margin-bottom: 0.5em;
+}
+
+.callout {
+	color: white;
+	background-color: #FF6C17;
+	padding: 1em;
+	font-size: 1.4em;
+	margin: 0 auto;
+}
+
+.event-introduction {
+	color: white;
+	background-color: #78BE20;
+	padding: 2em;
+	margin: 0 auto;
+}
+
+.event-introduction p {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.event-introduction__triangle {
+	height: 50px;
+	width: 100%;
+	display: block;
+	background-color: #78BE20;
+	-webkit-clip-path: polygon(50% 91%, 0 0, 100% 0);
+clip-path: polygon(50% 91%, 0 0, 100% 0);
+}
+
+.step-container {
+	padding: 1em;
+}
+
+h4.sponsor-title {
+	margin-top: 1em;
+}
+
+.step {
+	color: white;
+	background-size: cover;
+	padding: 1em;
+	margin: 0 auto;
+}
+
+.step-1 {
+	background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/rec1.jpg);
+}
+
+.step-2 {
+	background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/rec2.jpg);
+}
+
+.step-3 {
+	background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/rec3.jpg);
+}
+
+.step-container {
+	margin-bottom: 2em;
+}
+
+.btn {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #ED008C;
+	border: 1px solid #ED008C;
+	padding: 1.5em;
+	display: inline-block;
+	font-weight: 700;
+}
+
+a.step-1-btn {
+	color: #ED008C;
+	border-color:#ED008C;
+}
+
+a.step-1-btn:hover {
+	color: white;
+	background-color: #ED008C;
+}
+
+a.step-2-btn {
+	color: #FF6C17;
+	border-color: #FF6C17;
+}
+
+a.step-2-btn:hover {
+	color: white;
+	background-color: #FF6C17;
+}
+
+a.step-3-btn {
+	color: #78BE20;
+	border-color: #78BE20;
+}
+
+a.step-3-btn:hover {
+	color: white;
+	background-color: #78BE20;
+}
+
+.circle {
+	display: none;
+}
+
+
+
+.event-footer__title {
+	color: white;
+}
+
+.what-is__description {
+	font-size: 1.25em;
+	max-width: 650px;
+	margin: 0 auto;
+}
+
+.what-is {
+	color: white;
+	background-color: #FF6C17;
+	background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/orngimage.jpg);
+	background-size: cover;
+	padding: 2em;
+	margin: 0 auto;
+}
+
+h4.coming-soon {
+	color: gray;
+	font-style: italic;
+	padding: 2em 0 .5em 0;
+  font-size: 2em;
+}
+
+.email {
+	border: none;
+	color: white;
+	text-transform: lowercase;
+	text-decoration: none;
+}
+
+.email:hover {
+	color: gray;
+	background: none;
+}
+
+.event-footer {
+	color: white;
+	background-color: #0BA0C0;
+	padding: 1.5em;
+	padding-top: 0.1em;
+	margin: 2em auto 0 auto;
+}
+
+.event-header__logo {
+	margin-top: 1em;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+.lightbulb {
+	max-width: 150px;
+	margin-top: .75em;
+}
+
+.event-header__logo {
+	max-width: 250px;
+}
+
+.event-header {
+	margin-bottom: 2em;
+}
+
+h4.sponsor-title {
+	font-weight: bold;
+	text-transform: uppercase;
+  color: black;
+}
+
+@media screen and (min-width: 600px)
+{
+	.event-header {
+		display: flex;
+		overflow: hidden;
+		align-items: center;
+		justify-content:center;
+	}
+
+	.step-title {
+		margin-top: 0;
+		text-transform: none;
+	}
+
+	.headtext__date {
+		font-size: 3.5em;
+	}
+
+	.headtext__countdown {
+		font-size: 4.25em;
+	}
+
+	.sponsor-partner {
+		display: flex;
+		width: 80%;
+		margin: 0 auto;
+		justify-content: space-between;
+	align-items: center;
+}
+		.sponsor-partner h4 {
+			width: 25%;
+		}
+
+		.sponsor-partner ul {
+			width: 75%;
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+		}
+
+	.step-container {
+	margin-bottom:0;
+}
+
+	.school-advisor {
+		display: flex;
+		width: 100%;
+		margin-top: 2em;
+	}
+
+	.event-header__image {
+		width: 40%;
+		max-width: 300px;
+	}
+
+	.event-header__text {
+		width: 55%;
+		margin-left: 3%;
+		padding: 0 2em;
+	}
+
+	.lightbulb {
+		max-width: 100%;
+		margin-left: -20px;
+	}
+
+	.headtext {
+		font-size: 2em;
+	}
+
+	.event-introduction {
+		padding: 3em 5em;
+		font-size: 1.3em;
+	}
+
+	.what-is {
+		padding: 4em;
+	}
+
+	.step {
+		color: black;
+		background-image: none;
+		padding: 0;
+		font-size: 1.4em;
+		margin-bottom: .25em;
+		font-weight: bold;
+	}
+
+	.step-container__image {
+		position: relative;
+		width: 30%;
+	}
+
+	.step-container {
+		background-color: rgba(255, 108, 23,0.05);
+		padding: 3em 1em;
+		text-align: left;
+		//overflow-y: hidden;
+		display: flex;
+	}
+
+	.circle {
+		display: block;
+		//width: 100%;
+		//max-width: 300px;
+		position: absolute;
+	  min-width: 180px;
+	}
+
+	.circle1 {
+		margin-left:-75px;
+		margin-top:-50px;
+	}
+
+	.circle2 {
+		right: -70px;
+	}
+
+	.circle3 {
+		margin-left:-75px;
+		margin-top: 10px;
+	}
+
+	.step-container__details {
+		width: 80%;
+		margin-left: 5%;
+	}
+
+	.step-container--1 {
+		background-color: rgba(237, 0, 140, 0.05);
+	}
+
+	.step-container--3 {
+		background-color: rgba(120, 190, 32, 0.05);
+	}
+
+	.event-footer__info {
+		display: flex;
+		width: 60%;
+		margin: 0 auto;
+		margin-top: 2em;
+		justify-content: space-between;
+	}
+
+	.school-advisor__column {
+		width: 50%;
+	}
+
+}
+
+@media screen and (min-width: 900px) {
+
+	.event-header {
+		font-size: 120%;
+	}
+
+	.step-container {
+		padding: 4em 1em;
+		font-size: 120%;
+	}
+
+  .circle1 {
+    margin-top: -100px;
+  }
+
+	.step-container__details {
+		margin-left: 8%;
+	}
+
+	.circle {
+		min-width: 280px;
+	}
+
+	.event-header__logo {
+		max-width: 300px;
+	}
+
+}

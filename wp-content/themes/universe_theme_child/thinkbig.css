@@ -26,7 +26,7 @@ body {
 
 h2, .event-h2 {
 	margin-top: 2em;
-	margin-bottom: 2em;
+	margin-bottom: 1em;
 	font-weight: bold;
   font-size: 2.5em;
 }
@@ -141,7 +141,7 @@ clip-path: polygon(50% 91%, 0 0, 100% 0);
 }
 
 .step-container {
-	padding: 1em;
+	padding: 1em 0;
 }
 
 h4.sponsor-title {
@@ -280,7 +280,7 @@ ul {
 }
 
 .event-header__logo {
-	max-width: 250px;
+	max-width: 350px;
   margin: 0 auto;
 }
 
@@ -342,12 +342,16 @@ h4.sponsor-title {
 		text-transform: none;
 	}
 
+  .event-h2 {
+    margin-bottom: 2em;
+  }
+
 	.headtext__date {
 		font-size: 3.5em;
 	}
 
 	.headtext__countdown {
-		font-size: 4.25em;
+		font-size: 3em;
 	}
 
 	.sponsor-partner {
@@ -482,13 +486,18 @@ h4.sponsor-title {
 @media screen and (min-width: 900px) {
 
 	.event-header {
-		font-size: 130%;
+		font-size: 135%;
+
 	}
 
 	.step-container {
-		padding: 4em 1em;
+		padding: 3em 1em;
 		font-size: 120%;
 	}
+
+  .event-header__image {
+    max-width: 300px;
+  }
 
   .headtext__countdown {
     margin-top: .5em;
@@ -502,12 +511,22 @@ h4.sponsor-title {
 		margin-left: 8%;
 	}
 
+  .step-container__details--step-2 {
+    margin-left: 12%;
+  }
+
 	.circle {
 		min-width: 280px;
 	}
 
 	.event-header__logo {
-		max-width: 300px;
+		max-width: 400px;
 	}
 
+}
+
+@media screen and (min-width: 1100px) {
+  .event-header {
+    padding: 0 6em;
+  }
 }

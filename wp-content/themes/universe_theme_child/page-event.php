@@ -117,17 +117,20 @@ The Summit is open to all students, whether or not they compete in the Challenge
 	</div>
 	<div class="school-advisor">
 		<div class="school-advisor__column">
-			<h4 class="sponsor-title">Participating Schools</h4>
+			<h4 class="sponsor-title">School Partners</h4>
 			<ul>
 				<li>School Name</li>
 				<li>School Name</li>
 			</ul>
 		</div>
 		<div class="school-advisor__column">
-		<h4 class="sponsor-title">Advisors</h4>
+		<h4 class="sponsor-title">Advisory Partners</h4>
 			<ul>
-				<li>Advisor Name</li>
-				<li>Advisor Name</li>
+        <li>Connor Blakely</li>
+     <li>Michael Hudecek</li>
+     <li>Nicole McGee</li>
+     <li>NextGen Summit</li>
+     <li>Jay Schach</li>
 			</ul>
 			</div>
 	</div>

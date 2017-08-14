@@ -112,16 +112,16 @@ The Summit is open to all students, whether or not they compete in the Challenge
 	<div class="sponsor-partner">
 	<h4 class="sponsor-title">Sponsors</h4>
 	<ul>
-		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/partner-logo.jpg" alt="Partner Name" /></a><!--Connor Blakely-YouthLogic--></li>
-		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/partner-logo.jpg" alt="Partner Name" /></a><!--TVUC@CWRU--></li>
+		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/connor-blakeley.png" alt="YouthLogic" /></a><!--Connor Blakely-YouthLogic--></li>
+		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/tinkham-veale.jpeg" alt="TVUC@CWRU" /></a><!--TVUC@CWRU--></li>
 	</ul>
 	</div>
 	<div class="sponsor-partner">
 	<h4 class="sponsor-title">Partners</h4>
 	<ul>
-		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/partner-logo.jpg" alt="Partner Name" /></a><!--Geauga ESC--></li>
-		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/partner-logo.jpg" alt="Partner Name" /></a><!--NextGen Summit--></li>
-		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/partner-logo.jpg" alt="Partner Name" /></a><!--Upcycle Parts Shop--></li>
+		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/geauga-logo.png" alt="Geaiga ESC" /></a><!--Geauga ESC--></li>
+		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/n-logo.png" alt="NextGen Summit" /></a><!--NextGen Summit--></li>
+		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/uncycle-parts.jpg" alt="Upcycle Parts Shop" /></a><!--Upcycle Parts Shop--></li>
 	</ul>
 	</div>
 	<div class="school-advisor">

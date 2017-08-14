@@ -120,7 +120,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
 	<h4 class="sponsor-title">Partners</h4>
 	<ul>
 		<li><a href="http://www.gcesc.k12.oh.us/"><img src="/wp-content/themes/universe_theme_child/ui/geauga-logo.png" alt="Geauga ESC" /></a><!--Geauga ESC--></li>
-		<li><a href="https://www.ngsummit.com"><img src="/wp-content/themes/universe_theme_child/ui/n-logo.png" alt="NextGen Summit" /></a><!--NextGen Summit--></li>
+		<li><a href="https://www.ngsummit.com"><img src="/wp-content/themes/universe_theme_child/ui/Nextgen.png" alt="NextGen Summit" /></a><!--NextGen Summit--></li>
 		<li><a href="https://www.upcyclepartsshop.org"><img src="/wp-content/themes/universe_theme_child/ui/uncycle-parts.jpg" alt="Upcycle Parts Shop" /></a><!--Upcycle Parts Shop--></li>
 	</ul>
 	</div>

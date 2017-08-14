@@ -113,7 +113,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
 	<h4 class="sponsor-title">Sponsors</h4>
 	<ul>
 		<li><a href="http://connorblakley.com"><img src="/wp-content/themes/universe_theme_child/ui/connor-blakeley.png" alt="YouthLogic" /></a><!--Connor Blakely-YouthLogic--></li>
-		<li><a href="www.case.edu/universitycenter"><img src="/wp-content/themes/universe_theme_child/ui/tinkham-veale.jpeg" alt="TVUC@CWRU" /></a><!--TVUC@CWRU--></li>
+		<li><a href="http://www.case.edu/universitycenter"><img src="/wp-content/themes/universe_theme_child/ui/tinkham-veale.jpeg" alt="TVUC@CWRU" /></a><!--TVUC@CWRU--></li>
 	</ul>
 	</div>
 	<div class="sponsor-partner">

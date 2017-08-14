@@ -137,7 +137,8 @@ h1.headtext {
 	padding: 2em;
 	padding-bottom: 4em;
 	margin: 0 auto;
-clip-path: polygon(0% 1%, 0% 74%, 50% 100%, 100% 74%, 100% 0%);
+	-webkit-clip-path: polygon(0% 0%, 0% 74%, 50% 100%, 100% 74%, 100% 0%);
+clip-path: polygon(0% 0%, 0% 74%, 50% 100%, 100% 74%, 100% 0%);
 }
 
 .event-introduction p {

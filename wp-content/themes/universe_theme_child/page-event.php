@@ -42,7 +42,7 @@ get_header(); ?>
 
 <div class="step-container step-container--1">
 	<div class="step-container__image">
-		<img class="circle circle1" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/cir1_720.png">
+		<img class="circle circle1" src="/wp-content/themes/universe_theme_child/ui/circle-1.png">
 	</div>
 	<div class="step-container__details step-container__details--step-1">
 		<h3 class="step-1 step">Step 1:</h3>
@@ -65,13 +65,13 @@ get_header(); ?>
 	<a class="btn step-2-btn" href="/thinkbig-challenge-entry-submission/">VIEW RESOURCES & SUBMIT ENTRIES</a>
 		</div>
 		<div class="step-container__image">
-			<img class="circle circle2" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/cir2_720.png">
+			<img class="circle circle2" src="/wp-content/themes/universe_theme_child/ui/circle-2.png">
 		</div>
 	</div>
 
 	<div class="step-container step-container--3">
 		<div class="step-container__image">
-			<img class="circle circle3" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/cir3_720.png">
+			<img class="circle circle3" src="/wp-content/themes/universe_theme_child/ui/circle-3.png">
 		</div>
 		<div class="step-container__details step-container__details--step-3">
 			<h3 class="step-3 step">Step 3:</h3>
@@ -95,16 +95,16 @@ The Summit is open to all students, whether or not they compete in the Challenge
 
   <h2 class="event-h2">Speakers</h2>
   <h3>Keynote</h3>
-  <p><a href="#">Gerard Adams</a>, The Millennial Mentor™, thought leader, entrepreneur, investor, philanthropist<p>
+  <p><a href="http://gerardadams.com/">Gerard Adams</a>, The Millennial Mentor™, thought leader, entrepreneur, investor, philanthropist<p>
   <h3>Emcee</h3>
-  <p>Justin Lafazan, Next Gen Summit, entrepreneur, investor, speaker, author</p>
+  <p><a href="http://www.justinlafazan.com/">Justin Lafazan</a>, Next Gen Summit, entrepreneur, investor, speaker, author</p>
   <h3>Panelists</h3>
-  <p>Brennan Agranoff, Founder & CEO, Hoopswagg</p>
-  <p>Deep Patel, Entrepreneur, marketer, author</p>
-  <p>Benjamin Stern, Founder, Nohbo</p>
-  <p>Haile Thomas, Motivational speaker, youth health advocate, vegan chef</p>
+  <p><a href="https://hoopswagg.com/">Brennan Agranoff</a>, Founder & CEO, Hoopswagg</p>
+  <p><a href="https://deeppatel.com/">Deep Patel</a>, Entrepreneur, marketer, author</p>
+  <p><a href="http://nohboball.com/">Benjamin Stern</a>, Founder, Nohbo</p>
+  <p><a href="https://www.thehappyorg.org/">Haile Thomas</a>, Motivational speaker, youth health advocate, vegan chef</p>
   <h3>And our local hustle team:</h3>
-  <p>Will Lynch, Lynch Design • Matt Stauffer, 21 Sox</p>
+  <p><a href="http://www.lynchdesignflorist.com/2017/8/5/1gl9mm2gf40y7v4j1468amw5wicgbp">Will Lynch</a>, Lynch Design • <a href="https://www.etsy.com/shop/21SOX">Matt Stauffer</a>, 21 Sox</p>
 <h4 class="coming-soon">Our Full Lineup, Speakers & Agenda Are Coming Soon!</h4>
 </section>
 <section class="event-partners">
@@ -112,16 +112,16 @@ The Summit is open to all students, whether or not they compete in the Challenge
 	<div class="sponsor-partner">
 	<h4 class="sponsor-title">Sponsors</h4>
 	<ul>
-		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/connor-blakeley.png" alt="YouthLogic" /></a><!--Connor Blakely-YouthLogic--></li>
-		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/tinkham-veale.jpeg" alt="TVUC@CWRU" /></a><!--TVUC@CWRU--></li>
+		<li><a href="http://connorblakley.com"><img src="/wp-content/themes/universe_theme_child/ui/connor-blakeley.png" alt="YouthLogic" /></a><!--Connor Blakely-YouthLogic--></li>
+		<li><a href="www.case.edu/universitycenter"><img src="/wp-content/themes/universe_theme_child/ui/tinkham-veale.jpeg" alt="TVUC@CWRU" /></a><!--TVUC@CWRU--></li>
 	</ul>
 	</div>
 	<div class="sponsor-partner">
 	<h4 class="sponsor-title">Partners</h4>
 	<ul>
-		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/geauga-logo.png" alt="Geaiga ESC" /></a><!--Geauga ESC--></li>
-		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/n-logo.png" alt="NextGen Summit" /></a><!--NextGen Summit--></li>
-		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/uncycle-parts.jpg" alt="Upcycle Parts Shop" /></a><!--Upcycle Parts Shop--></li>
+		<li><a href="http://www.gcesc.k12.oh.us/"><img src="/wp-content/themes/universe_theme_child/ui/geauga-logo.png" alt="Geauga ESC" /></a><!--Geauga ESC--></li>
+		<li><a href="https://www.ngsummit.com"><img src="/wp-content/themes/universe_theme_child/ui/n-logo.png" alt="NextGen Summit" /></a><!--NextGen Summit--></li>
+		<li><a href="https://www.upcyclepartsshop.org"><img src="/wp-content/themes/universe_theme_child/ui/uncycle-parts.jpg" alt="Upcycle Parts Shop" /></a><!--Upcycle Parts Shop--></li>
 	</ul>
 	</div>
 	<div class="school-advisor">

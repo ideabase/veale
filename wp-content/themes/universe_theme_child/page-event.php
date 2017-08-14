@@ -22,9 +22,9 @@ get_header(); ?>
              	</div>
              	<div class="event-header__text">
                 <img class="event-header__logo" src="/wp-content/themes/universe_theme_child/ui/thinkBIGlogo-01.svg" alt="thinkBIG! - Veale Innovation Challenge & Summit"/>
-             		<h2 class="headtext__title">Join Us For the Challenge</h2>
+             		<h2 class="headtext__title">Join Us For the Summit</h2>
                  <h3 class="headtext__date">Feb 27, 2018</h3>
-                 <h1 class="headtext__countdown"><p id="demo"></p></h1>
+                 <h1 class="headtext__countdown"><div id="demo"></div></h1>
              	</div>
              </header>
 
@@ -37,9 +37,8 @@ get_header(); ?>
   } ?>
 	</div>
 <div class="event-introduction"><?php the_content(); ?></div>
-<div class="event-introduction__triangle"></div>
 
-<h2 class="event-h2">Join Us in 3 Easy Steps</h2>
+<h2 class="event-h2">Join Us in 3 Easy Steps...</h2>
 
 <div class="step-container step-container--1">
 	<div class="step-container__image">
@@ -48,7 +47,7 @@ get_header(); ?>
 	<div class="step-container__details step-container__details--step-1">
 		<h3 class="step-1 step">Step 1:</h3>
 		<h3 class="step-title">Register Your School</h3>
-	 <p class="step-description">Don't worry, you don't have to know all the details</p>
+	 <p class="step-description">Don't worry, you don't have to know all the details.</p>
 	<a class="btn step-1-btn" href="/school-partner-registration/"> Register School</a>
 		</div>
 	</div>
@@ -59,7 +58,7 @@ get_header(); ?>
 			<h3 class="step-title">Submit Challenge Entries</h3>
 			<ul class="step-description">
 				<li>$9,000 in Prizes</li>
-				 <li> Be named a Veale Innovator </li>
+				 <li> Be Named a Veale Innovator </li>
 					<li> Prizes for Your School </li>
 				 <li> Traveling Trophy</li>
 		</ul>
@@ -77,60 +76,68 @@ get_header(); ?>
 		<div class="step-container__details step-container__details--step-3">
 			<h3 class="step-3 step">Step 3:</h3>
 			<h3 class="step-title">Attend the Summit</h3>
-	<p class="step-description">Inspire your students. Plus, it's free! (Registration Coming Soon)</p>
+	<p class="step-description">Inspire your students. Plus, it's free! (Registration coming soon)</p>
 	 <a class="btn step-3-btn" href="#summit"> Find Out More</a>
 		</div>
 	</div>
  </section>
 
 <section id="summit" class="event-details">
-<h2 class="event-details__title"> The thinkBIG! Summit </h2>
-<div class="event-details-introduction">
-	<div class="what-is">
-<h3 class="what-is__title"> What is the thinkBIG! Summit? </h3>
+<h2 class="event-details__title">thinkBIG! Summit</h2>
+<div class="what-is">
+<h3 class="what-is__title"> WHAT IS THE thinkBIG! SUMMIT? </h3>
 <p class="what-is__description"> A unique, one-day conference featuring panels of
 national and local Gen Z and millennial entrepreneurs,
 mini maker hackathon sessions, Final Four Challenge team pitches, awards, prizes, networking and more!
 The Summit is open to all students, whether or not they compete in the Challenge. </p>
-	</div>
-<h4 class="coming-soon">Our Lineup, Speakers & Agenda Are Coming Soon!</h4>
+</div>
+<div class="event-details-introduction">
+
+  <h2 class="event-h2">Speakers</h2>
+  <h3>Keynote</h3>
+  <p><a href="#">Gerard Adams</a>, Millennial Mentor, thought leader, entrepreneur, investor, philanthropist<p>
+  <h3>Emcee</h3>
+  <p>Justin Lafazan, Next Gen Summit, Entrepreneur, Investor, Speaker, Author</p>
+  <h3>Panelists</h3>
+  <p>Brennan Agranoff, Founder & CEO, Hoopswagg</p>
+  <p>Deep Patel, Entrepreneur, marketer, author</p>
+  <p>Benjamin Stern, Founder, Nohbo</p>
+  <p>Haile Thomas, Motivational speaker, youth health advocate, vegan chef</p>
+  <h3>And our local hustle team:</h3>
+  <p>Will Lynch, Lynch Design • Matt Stauffer, 21 Sox • Giles Foster, Brews Brothers • Quiyanni Smith, Cakies</p>
+<h4 class="coming-soon">Our Full Lineup, Speakers & Agenda Are Coming Soon!</h4>
 </section>
 <section class="event-partners">
 	<h2 class="event-h2">Sponsors & Partners</h2>
 	<div class="sponsor-partner">
 	<h4 class="sponsor-title">Sponsors</h4>
 	<ul>
-		<li>Sponsor Logo</li>
-		<li>Sponsor Logo</li>
-		<li>Sponsor Logo</li>
-		<li>Sponsor Logo</li>
+		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/partner-logo.jpg" alt="Partner Name" /></a><!--Connor Blakely-YouthLogic--></li>
+		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/partner-logo.jpg" alt="Partner Name" /></a><!--TVUC@CWRU--></li>
 	</ul>
 	</div>
 	<div class="sponsor-partner">
 	<h4 class="sponsor-title">Partners</h4>
 	<ul>
-		<li>Partner Logo</li>
-		<li>Partner Logo</li>
-		<li>Partner Logo</li>
-		<li>Partner Logo</li>
+		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/partner-logo.jpg" alt="Partner Name" /></a><!--Geauga ESC--></li>
+		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/partner-logo.jpg" alt="Partner Name" /></a><!--NextGen Summit--></li>
+		<li><a href="#"><img src="/wp-content/themes/universe_theme_child/ui/partner-logo.jpg" alt="Partner Name" /></a><!--Upcycle Parts Shop--></li>
 	</ul>
 	</div>
 	<div class="school-advisor">
-		<div class="school-advisor__column">
+		<!--<div class="school-advisor__column">
 			<h4 class="sponsor-title">School Partners</h4>
 			<ul>
 				<li>School Name</li>
 				<li>School Name</li>
 			</ul>
-		</div>
+		</div>-->
 		<div class="school-advisor__column">
 		<h4 class="sponsor-title">Advisory Partners</h4>
 			<ul>
-        <li>Connor Blakely</li>
-     <li>Michael Hudecek</li>
-     <li>Nicole McGee</li>
-     <li>NextGen Summit</li>
-     <li>Jay Schach</li>
+        <li>Jennifer Felker</li>
+        <li>Tracey Jemison</li>
+        <li>Jay Schach</li>
 			</ul>
 			</div>
 	</div>

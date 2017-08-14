@@ -27,7 +27,7 @@ get_header();
 <?php wp_link_pages(); ?>
 </section>
        <footer class="event-footer">
-       	<h3 class="event-footer__title">Contact thinkBIG!</h3>
+       	<h3 class="event-footer__title">CONTACT thinkBIG!</h3>
        	<div class="event-footer__info">
        		<div class='event-footer__left'>
        		<a class="email" href="mailto:info@vealefound.org"> info@vealefound.org</a>

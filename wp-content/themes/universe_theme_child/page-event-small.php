@@ -20,6 +20,7 @@ get_header();
 <header class="event-header">
   <a class="event-header__logo" href="/programs/thinkbig">
     <img src="/wp-content/themes/universe_theme_child/ui/thinkBIGlogo-01.svg" alt="thinkBIG! - Veale Innovation Challenge & Summit"/>
+  </a>
   </div>
 </header>
 <section class="event-form">

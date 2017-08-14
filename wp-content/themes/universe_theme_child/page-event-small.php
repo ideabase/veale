@@ -17,11 +17,10 @@ get_header();
                <div class="widget-main">
                    <div class="widget-inner">
 
-<header class="event-header">
+<header>
   <a class="event-header__logo" href="/programs/thinkbig">
     <img src="/wp-content/themes/universe_theme_child/ui/thinkBIGlogo-01.svg" alt="thinkBIG! - Veale Innovation Challenge & Summit"/>
   </a>
-  </div>
 </header>
 <section class="event-form">
 <?php the_content(); ?>

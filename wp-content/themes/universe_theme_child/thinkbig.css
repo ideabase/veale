@@ -286,6 +286,7 @@ h4.coming-soon {
 
 .event-header__logo {
 	margin-top: 1em;
+  display: block;
 }
 
 ul {

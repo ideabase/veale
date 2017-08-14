@@ -47,7 +47,7 @@ get_header(); ?>
 	<div class="step-container__details step-container__details--step-1">
 		<h3 class="step-1 step">Step 1:</h3>
 		<h3 class="step-title">Register Your School</h3>
-	 <p class="step-description">Don't worry, you don't have to know all the details.</p>
+	 <p class="step-description">This amazing, free opportunity is one click away.</p>
 	<a class="btn step-1-btn" href="/school-partner-registration/"> Register School</a>
 		</div>
 	</div>
@@ -55,14 +55,14 @@ get_header(); ?>
 	<div class="step-container step-container--2">
 		<div class="step-container__details step-container__details--step-2">
 			<h3 class="step-2 step">Step 2:</h3>
-			<h3 class="step-title">Submit Challenge Entries</h3>
+			<h3 class="step-title">Enter the Challenge</h3>
 			<ul class="step-description">
 				<li>$9,000 in Prizes</li>
 				 <li> Be Named a Veale Innovator </li>
 					<li> Prizes for Your School </li>
 				 <li> Traveling Trophy</li>
 		</ul>
-	<a class="btn step-2-btn" href="/thinkbig-challenge-entry-submission/"> Submit Entries & View Resources</a>
+	<a class="btn step-2-btn" href="/thinkbig-challenge-entry-submission/">VIEW RESOURCES & SUBMIT ENTRIES</a>
 		</div>
 		<div class="step-container__image">
 			<img class="circle circle2" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/cir2_720.png">
@@ -95,16 +95,16 @@ The Summit is open to all students, whether or not they compete in the Challenge
 
   <h2 class="event-h2">Speakers</h2>
   <h3>Keynote</h3>
-  <p><a href="#">Gerard Adams</a>, Millennial Mentor, thought leader, entrepreneur, investor, philanthropist<p>
+  <p><a href="#">Gerard Adams</a>, The Millennial Mentor™, thought leader, entrepreneur, investor, philanthropist<p>
   <h3>Emcee</h3>
-  <p>Justin Lafazan, Next Gen Summit, Entrepreneur, Investor, Speaker, Author</p>
+  <p>Justin Lafazan, Next Gen Summit, entrepreneur, investor, speaker, author</p>
   <h3>Panelists</h3>
   <p>Brennan Agranoff, Founder & CEO, Hoopswagg</p>
   <p>Deep Patel, Entrepreneur, marketer, author</p>
   <p>Benjamin Stern, Founder, Nohbo</p>
   <p>Haile Thomas, Motivational speaker, youth health advocate, vegan chef</p>
   <h3>And our local hustle team:</h3>
-  <p>Will Lynch, Lynch Design • Matt Stauffer, 21 Sox • Giles Foster, Brews Brothers • Quiyanni Smith, Cakies</p>
+  <p>Will Lynch, Lynch Design • Matt Stauffer, 21 Sox</p>
 <h4 class="coming-soon">Our Full Lineup, Speakers & Agenda Are Coming Soon!</h4>
 </section>
 <section class="event-partners">
@@ -133,7 +133,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
 			</ul>
 		</div>-->
 		<div class="school-advisor__column">
-		<h4 class="sponsor-title">Advisory Partners</h4>
+		<h4 class="sponsor-title">Advisors</h4>
 			<ul>
         <li>Jennifer Felker</li>
         <li>Tracey Jemison</li>

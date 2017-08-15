@@ -48,7 +48,7 @@ get_header(); ?>
 		<h3 class="step-1 step">Step 1:</h3>
 		<h3 class="step-title">Register Your School</h3>
 	 <p class="step-description">This amazing, free opportunity is one click away.</p>
-	<a class="btn step-1-btn" href="/school-partner-registration/"> Register School</a>
+	<a class="btn step-1-btn" href="thinkbig/register"> Register School</a>
 		</div>
 	</div>
 
@@ -62,7 +62,7 @@ get_header(); ?>
 					<li> Prizes for Your School </li>
 				 <li> Traveling Trophy</li>
 		</ul>
-	<a class="btn step-2-btn" href="/thinkbig-challenge-entry-submission/">Get Started</a>
+	<a class="btn step-2-btn" href="/thinkbig/challenge">Get Started</a>
 		</div>
 		<div class="step-container__image">
 			<img class="circle circle2" src="/wp-content/themes/universe_theme_child/ui/circle-2.png">

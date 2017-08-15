@@ -7,7 +7,7 @@ body {
   text-align: center;
 }
 
-.event-body p, .event-details p {
+.event-body p, .event-details-introduction p {
 	font-size: 1.35em;
 }
 

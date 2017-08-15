@@ -99,12 +99,12 @@ The Summit is open to all students, whether or not they compete in the Challenge
   <h3>Emcee</h3>
   <p><a href="http://www.justinlafazan.com/">Justin Lafazan</a>, Next Gen Summit, entrepreneur, investor, speaker, author</p>
   <h3>Panelists</h3>
-  <p><a href="https://hoopswagg.com/">Brennan Agranoff</a>, Founder & CEO, Hoopswagg</p>
+  <p><a href="https://hoopswagg.com/">Brennan Agranoff</a>, Founder & CEO-Hoopswagg</p>
+  <p><a href="http://www.lynchdesignflorist.com/2017/8/5/1gl9mm2gf40y7v4j1468amw5wicgbp">Will Lynch</a>, Founder-Lynch Design</p>
   <p><a href="https://deeppatel.com/">Deep Patel</a>, Entrepreneur, marketer, author</p>
-  <p><a href="http://nohboball.com/">Benjamin Stern</a>, Founder, Nohbo</p>
+  <p><a href="https://www.etsy.com/shop/21SOX">Matthew Stauffer</a>, Founder-21 SOX</p>
+  <p><a href="http://nohboball.com/">Benjamin Stern</a>, Founder-Nohbo</p>
   <p><a href="https://www.thehappyorg.org/">Haile Thomas</a>, Motivational speaker, youth health advocate, vegan chef</p>
-  <h3>And our local hustle team:</h3>
-  <p><a href="http://www.lynchdesignflorist.com/2017/8/5/1gl9mm2gf40y7v4j1468amw5wicgbp">Will Lynch</a>, Lynch Design • <a href="https://www.etsy.com/shop/21SOX">Matt Stauffer</a>, 21 Sox</p>
 <h4 class="coming-soon">Our Full Lineup, Speakers & Agenda Are Coming Soon!</h4>
 </section>
 <section class="event-partners">
@@ -114,6 +114,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
 	<ul>
 		<li><a href="http://connorblakley.com"><img src="/wp-content/themes/universe_theme_child/ui/connor-blakeley.png" alt="YouthLogic" /></a><!--Connor Blakely-YouthLogic--></li>
 		<li><a href="http://www.case.edu/universitycenter"><img src="/wp-content/themes/universe_theme_child/ui/tinkham-veale.jpeg" alt="TVUC@CWRU" /></a><!--TVUC@CWRU--></li>
+    <li><a href="http://fownders.com/about/"><img src="/wp-content/themes/universe_theme_child/ui/fownders.png" alt="Fownders" /></a><!--Fownders--></li>
 	</ul>
 	</div>
 	<div class="sponsor-partner">
@@ -150,7 +151,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
 		<p>216.255.3179</p>
 		</div>
 		<div class='event-footer__right'>
-		<address>30195 Chagrin Blvd. Suite 310<br /> Pepper Pike, Ohio 44124 </address>
+		<address>30195 Chagrin Blvd., Suite 310<br /> Pepper Pike, Ohio 44124 </address>
 		</div>
 	</div>
 </footer>

@@ -34,7 +34,7 @@ get_header();
        		<p>216.255.3179</p>
        		</div>
        		<div class='event-footer__right'>
-       		<address>30195 Chagrin Blvd. Suite 310<br /> Pepper Pike, Ohio 44124 </address>
+       		<address>30195 Chagrin Blvd., Suite 310<br /> Pepper Pike, Ohio 44124 </address>
        		</div>
        	</div>
        </footer>

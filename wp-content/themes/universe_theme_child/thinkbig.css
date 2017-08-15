@@ -7,12 +7,19 @@ body {
   text-align: center;
 }
 
-p {
+.event-body p, .event-details p {
 	font-size: 1.35em;
 }
 
 .page-title {
   display: none;
+}
+
+.event-form ul {
+	font-size:1.2em;
+	list-style-type: square;
+	margin: inherit;
+	padding: inherit;
 }
 
 .site-footer {
@@ -61,8 +68,15 @@ h3.step-title {
 	background-color: white;
 	max-width: 1200px;
 	margin: 0 auto;
-	overflow: hidden;
 	padding: 0;
+}
+
+.col-md-12 {
+	padding: 0;
+}
+
+.row {
+	margin: 0;
 }
 
 img {
@@ -356,9 +370,9 @@ h4.sponsor-title {
 }
 
 .sponsor-partner img {
-	width: 150px;
-	height: auto;
+	width: auto;
 	max-width: 100%;
+	max-height: 50px;
 }
 
 .sponsor-partner {

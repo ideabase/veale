@@ -77,7 +77,7 @@ get_header(); ?>
 			<h3 class="step-3 step">Step 3:</h3>
 			<h3 class="step-title">Attend the Summit</h3>
 	<p class="step-description">Inspire your students. Plus, it's free! (Registration coming soon)</p>
-	 <a class="btn step-3-btn" href="#summit"> Find Out More</a>
+	 <a data-scroll class="btn step-3-btn" href="#summit"> Find Out More</a>
 		</div>
 	</div>
  </section>

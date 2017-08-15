@@ -48,7 +48,7 @@ get_header(); ?>
 		<h3 class="step-1 step">Step 1:</h3>
 		<h3 class="step-title">Register Your School</h3>
 	 <p class="step-description">This amazing, free opportunity is one click away.</p>
-	<a class="btn step-1-btn" href="thinkbig/register"> Register School</a>
+	<a class="btn step-1-btn" href="/thinkbig/register"> Register School</a>
 		</div>
 	</div>
 

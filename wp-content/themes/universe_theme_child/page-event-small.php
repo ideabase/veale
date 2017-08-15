@@ -39,6 +39,8 @@ get_header();
        	</div>
        </footer>
 
+       <script src="/wp-content/themes/universe_theme_child/event-scripts.js"></script>
+
      </div> <!-- /.widget-inner -->
    </div> <!-- /.widget-main -->
     <?php endwhile; else : ?>

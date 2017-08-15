@@ -151,7 +151,7 @@ clip-path: polygon(0% 0%, 0% 74%, 50% 100%, 100% 74%, 100% 0%);
 }
 
 .event-introduction p {
-  max-width: 750px;
+  max-width: 650px;
   margin: 0 auto;
 	font-size: 1.2em;
 }

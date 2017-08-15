@@ -40,7 +40,7 @@ h2, .event-h2 {
 }
 
 h3 {
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	margin-top:1.5em;
 	color: #0BA0C0;
 	font-weight: bold;
@@ -144,6 +144,7 @@ h1.headtext {
 	font-size: 1.4em;
 	margin: 0 auto;
   font-weight: bold;
+	text-transform: uppercase;
 }
 
 .event-introduction {
@@ -187,6 +188,7 @@ h4.sponsor-title {
 	padding: 3em 1em;
 	margin: 0 auto;
   font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
 }
 
 .step-1 {

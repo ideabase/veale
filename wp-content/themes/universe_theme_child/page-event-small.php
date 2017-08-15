@@ -18,7 +18,7 @@ get_header();
                    <div class="widget-inner">
 
 <header>
-  <a class="event-header__logo" href="/programs/thinkbig">
+  <a class="event-header__logo" href="/thinkbig">
     <img src="/wp-content/themes/universe_theme_child/ui/thinkBIGlogo-01.svg" alt="thinkBIG! - Veale Innovation Challenge & Summit"/>
   </a>
 </header>

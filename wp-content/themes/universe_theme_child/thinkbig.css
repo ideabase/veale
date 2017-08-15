@@ -15,13 +15,6 @@ body {
   display: none;
 }
 
-.event-form ul {
-	font-size:1.2em;
-	list-style-type: square;
-	margin: inherit;
-	padding: inherit;
-}
-
 .site-footer {
   margin-top: 0;
 }

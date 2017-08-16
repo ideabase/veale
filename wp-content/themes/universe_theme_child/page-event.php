@@ -92,6 +92,7 @@ mini maker hackathon sessions, Final Four Challenge team pitches, awards, prizes
 The Summit is open to all students, whether or not they compete in the Challenge. </p>
 </div>
 
+
 <!--Phase Two Development
 <div class="togglebox">
 
@@ -262,8 +263,8 @@ The Summit is open to all students, whether or not they compete in the Challenge
 	<h4>Partners</h4>
 	<ul>
 		<li><a target="_blank" href="http://www.gcesc.k12.oh.us/"><img src="/wp-content/themes/universe_theme_child/ui/geauga-logo.png" alt="Geauga ESC" /></a></li>
-			<li><a target="_blank" href="https://www.ngsummit.com"><img src="/wp-content/themes/universe_theme_child/ui/Nextgen.png" alt="NextGen Summit" /></a></li>
-      <li><a  target="_blank" href="https://www.upcyclepartsshop.org"><img src="/wp-content/themes/universe_theme_child/ui/uncycle-parts.jpg" alt="Upcycle Parts Shop" /></a></li>
+		<li><a target="_blank" href="https://www.ngsummit.com"><img src="/wp-content/themes/universe_theme_child/ui/Nextgen.png" alt="NextGen Summit" /></a></li>
+    <li><a  target="_blank" href="https://www.upcyclepartsshop.org"><img src="/wp-content/themes/universe_theme_child/ui/uncycle-parts.jpg" alt="Upcycle Parts Shop" /></a></li>
 	</ul>
 	<h4>Participating Schools</h4>
 	<ul>
@@ -272,14 +273,17 @@ The Summit is open to all students, whether or not they compete in the Challenge
 	</ul>
 	<h4>Advisors</h4>
 	<ul>
-		<li>Advisor Name</li>
-		<li>Advisor Name</li>
+    <li>Jennifer Felker</li>
+    <li>Tracey Jemison</li>
+    <li>Jay Schach</li>
 	</ul>
   </section>
 
 </div>
 
 !-->
+
+
 
 <div class="event-details-introduction">
 

@@ -112,6 +112,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
        </ul>
     <h2>Speakers</h2>
     <ul>
+     <img class="content_speaker" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/Justin.jpg">
       <li><strong>Emcee</strong></li>
       <li>Justin Lafazan</li>
       <li>Next Gen Summit, Entrepreneur, Investor,</li>
@@ -120,6 +121,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
     </ul>
     <h2>Panelists</h2>
     <ul class="panelist">
+       <li><img class="content_speaker" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/Brennan.jpg"></li>
       <li><strong>Panelist</strong></li>
       <li>Brennan Agranoff</li>
       <li>Founder & CEO,</li>
@@ -127,6 +129,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
       <li><a href="hoopswagg.com">hoopswagg.com</a></li>
     </ul>
     <ul class="panelist">
+    <li><img class="content_speaker" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/Deep.jpg"></li>
       <li><strong>Panelist</strong></li>
       <li>Deep Patel</li>
       <li>Entrepreneur, marketer,</li>
@@ -134,12 +137,14 @@ The Summit is open to all students, whether or not they compete in the Challenge
       <li><a href="deeppatel.com">deeppatel.com</a></li>
     </ul>
     <ul class="panelist">
+       <li><img class="content_speaker" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/Benjamin.jpg"></li>
       <li><strong>Panelist</strong></li>
       <li>Benjamin Stern</li>
       <li>Founder, Nohbo</li>
       <li><a href="nohboball.com">nohboball.com</a></li>
     </ul>
     <ul class="panelist">
+     <li><img class="content_speaker" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/Haile.jpg"></li>
       <li><strong>Panelist</strong></li>
       <li>Motivational</li>
       <li>speaker, youth</li>

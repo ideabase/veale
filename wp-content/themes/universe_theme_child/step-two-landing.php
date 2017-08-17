@@ -18,7 +18,7 @@ get_header(); ?>
 
 
 
-<h1>The Challenge</h1>
+<h3 class="step-title">The Challenge</h3>
 <p>Challenge competitors (teams of 1-4 students) develop big, entrepreneurial ideas that will enhance the economy, image and lives of Northeast Ohio residents in one of the following
 categories:</p>
 <ul>
@@ -73,7 +73,7 @@ Your Executive Summary must be submitted as a slide deck in pdf format. It can b
 </ul>
 
 <h3>2017-18 Schedule</h3>
-<table>
+<table class="content-agenda">
   <tr>
     <td>August 21, 2017</td>
     <td>thinkBIG! Challenge Submissions Open

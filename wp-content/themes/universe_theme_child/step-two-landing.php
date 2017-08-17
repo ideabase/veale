@@ -1,5 +1,5 @@
 <?php
- /** template name: Event Landing Page
+ /** template name: Step Two Landing
 /* The page fullwidth template file.
  *
  * @package WordPress

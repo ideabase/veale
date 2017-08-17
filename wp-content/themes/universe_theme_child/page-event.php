@@ -128,7 +128,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
       <li><a href="hoopswagg.com">hoopswagg.com</a></li>
     </ul>
     <ul class="panelist">
-    <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Deep_Patel.jpg" alt="Deep Patel"></li>
+    <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Deep_Patel.JPG" alt="Deep Patel"></li>
       <li><strong>Panelist</strong></li>
       <li>Deep Patel</li>
       <li>Entrepreneur, marketer,</li>

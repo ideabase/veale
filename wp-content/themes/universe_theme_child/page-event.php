@@ -93,7 +93,6 @@ The Summit is open to all students, whether or not they compete in the Challenge
 </div>
 
 
-Phase Two Development
 <div class="togglebox">
 
   <input id="toggle1" type="radio" name="toggle" />
@@ -251,7 +250,7 @@ Phase Two Development
     <p>
       A sprint-like design event that includes team members of various subject matter expertise who collaborate intensively to generate ideas and/or a product. The term originated with computer programmers and software developers.
     </p>
-    <a class="hack-btn" href="">Learn More About the Hackathon</a>
+    <a class="hack-btn" href="http://stage.vealeentrepreneurs.org/hackathon/">Learn More About the Hackathon</a>
   </section>
 
   <input id="toggle4" type="radio" name="toggle" />
@@ -333,7 +332,7 @@ Phase Two Development
 			</ul>
 		</div>-->
 
-  
+
 		<div class="school-advisor__column">
 		<h4 class="sponsor-title">Advisors</h4>
 			<ul>

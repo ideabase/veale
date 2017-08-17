@@ -120,7 +120,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
     </ul>
     <h2>Panelists</h2>
     <ul class="panelist">
-       <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Brennan.jpeg"></li>
+       <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Brennan.jpg"></li>
       <li><strong>Panelist</strong></li>
       <li>Brennan Agranoff</li>
       <li>Founder & CEO,</li>
@@ -143,7 +143,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
       <li><a href="nohboball.com">nohboball.com</a></li>
     </ul>
     <ul class="panelist">
-     <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Haile.jpeg"></li>
+     <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Haile.jpg"></li>
       <li><strong>Panelist</strong></li>
       <li>Motivational</li>
       <li>speaker, youth</li>

@@ -93,7 +93,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
 </div>
 
 
-<!--Phase Two Development
+Phase Two Development
 <div class="togglebox">
 
   <input id="toggle1" type="radio" name="toggle" />
@@ -285,9 +285,6 @@ The Summit is open to all students, whether or not they compete in the Challenge
   </section>
 
 </div>
-
-!-->
-
 
 
 <div class="event-details-introduction">

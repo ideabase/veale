@@ -1,3 +1,5 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
 
 * {
 	box-sizing: border-box;
@@ -624,25 +626,8 @@ h4.sponsor-title {
 }
 
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
-@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 
-*, *:before, *:after {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-html, body {
-  height: 100vh;
-  font: 16px/1 'Open Sans', sans-serif;
-  color: #555;
-  background: #e5e5e5;
-}
-
-body {
-  padding: 100px;
-}
+/* Start Accordion Styles */
 
 .togglebox {
   margin: 0 auto;
@@ -683,8 +668,8 @@ label:after {
   transition: .3s transform;
 }
 
-section {
-  height: 0;
+.content {
+  max-height: 0;
   transition: .3s all;
   overflow: hidden;
 }
@@ -700,7 +685,7 @@ section {
 #toggle2:checked ~ #content2,
 #toggle3:checked ~ #content3,
 #toggle4:checked ~ #content4 {
-  height: 600px;
+  max-height: 500em;
 }
 
 .content {
@@ -711,30 +696,34 @@ section {
   display: inline-block;
 }
 
-p {
-  margin: 15px 0;
-  padding: 0 20px;
-  line-height: 1.5;
-}
 
 label {
   font-size: 1.2em;
 }
 
+/* These are too generic - need scoped to just a particular section /*
 ul {
   list-style-type: none;
   padding: 0.5em;
   line-height: 1.2;
 }
 
-a {
+p {
+  margin: 15px 0;
+  padding: 0 20px;
+  line-height: 1.5;
+}
+
+
+
+/* a {
   text-decoration: none;
   color: #78BE20;
 }
 
 a:hover {
   color: black;
-}
+}*/
 
 a.hack-btn {
 	text-decoration: none;

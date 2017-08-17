@@ -93,7 +93,11 @@ The Summit is open to all students, whether or not they compete in the Challenge
 </div>
 
 
+<<<<<<< HEAD
 
+=======
+Phase Two Development
+>>>>>>> e7d3f1b5472287567e91cb93836bbdf8c15b0ed9
 <div class="togglebox">
 
   <input id="toggle1" type="radio" name="toggle" />
@@ -286,7 +290,10 @@ The Summit is open to all students, whether or not they compete in the Challenge
 
 </div>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e7d3f1b5472287567e91cb93836bbdf8c15b0ed9
 
 <!--
 <div class="event-details-introduction">
@@ -318,9 +325,15 @@ The Summit is open to all students, whether or not they compete in the Challenge
 	<div class="sponsor-partner">
 	<h4 class="sponsor-title">Partners</h4>
 	<ul>
+<<<<<<< HEAD
 		<li><a target="_blank" href="http://www.gcesc.k12.oh.us/"><img src="/wp-content/themes/universe_theme_child/ui/geauga-logo.png" alt="Geauga ESC" /></a></li>
 		<li><a target="_blank" href="https://www.ngsummit.com"><img src="/wp-content/themes/universe_theme_child/ui/Nextgen.png" alt="NextGen Summit" /></a></li>
 		<li><a  target="_blank" href="https://www.upcyclepartsshop.org"><img src="/wp-content/themes/universe_theme_child/ui/uncycle-parts.jpg" alt="Upcycle Parts Shop" /></a></li>
+=======
+		<li><a target="_blank" href="http://www.gcesc.k12.oh.us/"><img src="/wp-content/themes/universe_theme_child/ui/geauga-logo.png" alt="Geauga ESC" /></a><!--Geauga ESC--></li>
+		<li><a target="_blank" href="https://www.ngsummit.com"><img src="/wp-content/themes/universe_theme_child/ui/Nextgen.png" alt="NextGen Summit" /></a><!--NextGen Summit--></li>
+		<li><a  target="_blank" href="https://www.upcyclepartsshop.org"><img src="/wp-content/themes/universe_theme_child/ui/uncycle-parts.png" alt="Upcycle Parts Shop" /></a><!--Upcycle Parts Shop--></li>
+>>>>>>> e7d3f1b5472287567e91cb93836bbdf8c15b0ed9
 	</ul>
 	</div>
 

@@ -152,8 +152,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
       <li><a href="hailevthomas.com">hailevthomas.com</a></li>
     </ul>
 
-    <h3>Local Hustle Team</h3>
-    <p>Will Lynch, Lynch Design • Matt Stauffer, 21 Sox • Giles Foster, Brews Brothers • Quiyanni Smith, Cakies</p>
+
   </section>
 
   <input id="toggle2" type="radio" name="toggle" />
@@ -333,15 +332,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
 		</div>-->
 
 
-		<div class="school-advisor__column">
-		<h4 class="sponsor-title">Advisors</h4>
-			<ul>
-        <li>Jennifer Felker</li>
-        <li>Tracey Jemison</li>
-        <li>Jay Schach</li>
-			</ul>
-			</div>
-	</div>
+
 </section>
 <footer class="event-footer">
 	<h3 class="event-footer__title">CONTACT thinkBIG!</h3>

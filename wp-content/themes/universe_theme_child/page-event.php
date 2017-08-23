@@ -100,18 +100,18 @@ The Summit is open to all students, whether or not they compete in the Challenge
 
   <section class="content" id="content1">
     <h2>Keynote Speaker</h2>
-    <ul>
-      <li><strong>GERARD ADAMS</strong></li>
-
+  <ul>
+    <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/GerardAdamsForWebsite.jpeg" alt="Gerard Adams"></li>
+    <li><strong>GERARD ADAMS</strong></li>
     <li>Millennial Mentor,</li>
     <li>thought leader,</li>
     <li>entrepreneur, investor,</li>
     <li>philanthropist</li>
-      <li><a href="http://gerardadams.com/">http://gerardadams.com</a></li>
-       </ul>
+    <li><a href="http://gerardadams.com/">http://gerardadams.com</a></li>
+  </ul>
     <h2>Speakers</h2>
     <ul>
-     <img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Justin-Lafarzan-Headshot.jpeg" alt="Justin Lafarzan">
+     <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Justin-Lafarzan-Headshot.jpeg" alt="Justin Lafarzan"></li>
       <li><strong>Emcee</strong></li>
       <li>Justin Lafazan</li>
       <li>Next Gen Summit, Entrepreneur, Investor,</li>

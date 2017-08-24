@@ -95,78 +95,77 @@ The Summit is open to all students, whether or not they compete in the Challenge
 
 <div class="togglebox">
 
-  <input id="toggle1" type="radio" name="toggle" />
+  <input id="toggle1" type="checkbox" name="toggle" />
   <label for="toggle1">Speaker & Panelist Lineup</label>
 
   <section class="content" id="content1">
-    <h2>Keynote Speaker</h2>
-  <ul>
-    <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/GerardAdamsForWebsite.jpeg" alt="Gerard Adams"></li>
-    <li><strong>GERARD ADAMS</strong></li>
-    <li>Millennial Mentor,</li>
-    <li>thought leader,</li>
-    <li>entrepreneur, investor,</li>
-    <li>philanthropist</li>
-    <li><a href="http://gerardadams.com/">http://gerardadams.com</a></li>
-  </ul>
-    <h2>Speakers</h2>
+    <h3>Keynote Speaker</h3>
+    <div class="content__keynote">
+      <ul>
+        <li><img class="content_speaker--keynote" src="/wp-content/themes/universe_theme_child/ui/GerardAdamsForWebsite.jpeg" alt="Gerard Adams"></li>
+        <h4>GERARD ADAMS</h4>
+        <li>Millennial Mentor, thought leader, entrepreneur, investor, philanthropist</li>
+        <li><a href="http://gerardadams.com/">http://gerardadams.com</a></li>
+      </ul>
+      <div class="content__video">
+        <div class="content__video__container">
+          VIDEO EMBED GOES HERE
+        </div>
+      </div>
+    </div>
+    <h3>Emcee</h3>
     <ul>
-     <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Justin-Lafarzan-Headshot.jpeg" alt="Justin Lafarzan"></li>
-      <li><strong>Emcee</strong></li>
-      <li>Justin Lafazan</li>
-      <li>Next Gen Summit, Entrepreneur, Investor,</li>
-      <li>Speaker, Author</li>
+     <li><img class="content_speaker--keynote" src="/wp-content/themes/universe_theme_child/ui/Justin-Lafarzan-Headshot.jpeg" alt="Justin Lafarzan"></li>
+      <h4>Justin Lafazan</h4>
+      <li>Next Gen Summit, Entrepreneur, Investor, Speaker, Author</li>
       <li><a href="www.justinlafazan.com">www.justinlafazan.com</a></li>
     </ul>
-    <h2>Panelists</h2>
+    <h3>Panelists</h3>
+    <div class="panelists">
     <ul class="panelist">
        <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Brennan.jpg"></li>
+       <h4>Brennan Agranoff</h4>
       <li><strong>Panelist</strong></li>
-      <li>Brennan Agranoff</li>
-      <li>Founder & CEO,</li>
-      <li>Hoopswagg</li>
+      <li>Founder & CEO, Hoopswagg</li>
       <li><a href="hoopswagg.com">hoopswagg.com</a></li>
     </ul>
     <ul class="panelist">
     <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Deep_Patel.JPG" alt="Deep Patel"></li>
+      <h4>Deep Patel</h4>
       <li><strong>Panelist</strong></li>
-      <li>Deep Patel</li>
-      <li>Entrepreneur, marketer,</li>
-      <li>author</li>
+      <li>Entrepreneur, marketer, author</li>
       <li><a href="deeppatel.com">deeppatel.com</a></li>
     </ul>
     <ul class="panelist">
        <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Benjamin.jpg"></li>
+      <h4>Benjamin Stern</h4>
       <li><strong>Panelist</strong></li>
-      <li>Benjamin Stern</li>
       <li>Founder, Nohbo</li>
       <li><a href="nohboball.com">nohboball.com</a></li>
     </ul>
     <ul class="panelist">
      <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Haile.jpg"></li>
+     <h4>NAME</h4>
       <li><strong>Panelist</strong></li>
-      <li>Motivational</li>
-      <li>speaker, youth</li>
-      <li>health advocate,</li>
-      <li>vegan chef</li>
+      <li>Motivational speaker, youth health advocate, vegan chef</li>
       <li><a href="hailevthomas.com">hailevthomas.com</a></li>
     </ul>
-
-
+  </div>
   </section>
 
-  <input id="toggle2" type="radio" name="toggle" />
+  <input id="toggle2" type="checkbox" name="toggle" />
   <label for="toggle2">Agenda</label>
 
   <section class="content" id="content2">
+    <h3>The Summit Agenda</h3>
     <table class="content_agenda">
       <tr>
         <td>8:30am</td>
-        <td>check in</td>
+        <td><h5>Check In</h5></td>
       </tr>
       <tr>
         <td>9:00am</td>
-        <td>Welcome and opening remarks
+        <td><h5>Welcome and opening remarks</h5>
           <ul class="table_ul">
             <li>Cynthia Bailie, Executive Director, Veale Youth Entrepreneurship Forum</li>
             <li>Justin Lafazan, Emcee, thinkBIG! Summit, Co-founder, Next Gen Summit</li>
@@ -242,21 +241,22 @@ The Summit is open to all students, whether or not they compete in the Challenge
     </table>
   </section>
 
-  <input id="toggle3" type="radio" name="toggle" />
+  <input id="toggle3" type="checkbox" name="toggle" />
   <label for="toggle3">Mini Maker Hackathon</label>
 
   <section class="content" id="content3">
+    <h3>Mini Maker Hackathon</h3>
     <p>
       A sprint-like design event that includes team members of various subject matter expertise who collaborate intensively to generate ideas and/or a product. The term originated with computer programmers and software developers.
     </p>
     <a class="hack-btn" href="http://stage.vealeentrepreneurs.org/hackathon/">Learn More About the Hackathon</a>
   </section>
 
-  <input id="toggle4" type="radio" name="toggle" />
+  <input id="toggle4" type="checkbox" name="toggle" />
   <label for="toggle4">Sponsors & Partners</label>
 
   <section class="event-partner content" id="content4">
-    <h2 class="event-h2">Sponsors & Partners</h2>
+    <h3>Sponsors & Partners</h3>
 
     <div class="sponsor-partner">
 	<h4 class="sponsor-title">Sponsors</h4>
@@ -274,19 +274,23 @@ The Summit is open to all students, whether or not they compete in the Challenge
     <li><a  target="_blank" href="https://www.upcyclepartsshop.org"><img src="/wp-content/themes/universe_theme_child/ui/uncycle-parts.png" alt="Upcycle Parts Shop" /></a></li>
 	</ul>
 </div>
-	<h4 class="sponsor-title">Participating Schools</h4>
-	<ul>
-		<li>School Name</li>
-		<li>School Name</li>
-	</ul>
-  <div class="advisor-column">
-	<h4 class="sponsor-title">Advisors</h4>
-	<ul>
-    <li>Jennifer Felker</li>
-    <li>Tracey Jemison</li>
-    <li>Jay Schach</li>
-	</ul>
-</div>
+  <div class="school-advisor">
+    <div class="advisor-column">
+  	   <h4 class="sponsor-title">Advisors</h4>
+    	<ul>
+        <li>Jennifer Felker</li>
+        <li>Tracey Jemison</li>
+        <li>Jay Schach</li>
+    	</ul>
+    </div>
+  	<div class="school-advisor__column">
+  			<h4 class="sponsor-title">School Partners</h4>
+  			<ul>
+  				<li>School Name</li>
+  				<li>School Name</li>
+  			</ul>
+  	</div>
+  </div>
   </section>
 
 </div>

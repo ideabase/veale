@@ -9,7 +9,7 @@ body {
   text-align: center;
 }
 
-.event-body p, .event-details-introduction p {
+.event-body p, .event-details-introduction p, .content p {
 	font-size: 1.35em;
 }
 
@@ -94,6 +94,7 @@ img {
 	font-size: 1.2em;
 	margin-top: 1em;
 	margin-bottom: 2em;
+	padding: 1em;
 }
 
 .what-is__title {
@@ -409,6 +410,10 @@ h4.sponsor-title {
 		justify-content:center;
 	}
 
+	.step-description {
+		padding: 0;
+	}
+
   .callout {
     font-size: 160%;
   }
@@ -465,6 +470,7 @@ h4.sponsor-title {
 		display: flex;
 		width: 100%;
 		margin-top: 2em;
+		margin-bottom: 2em;
 	}
 
 	.event-header__image {
@@ -555,7 +561,7 @@ h4.sponsor-title {
 	}
 
 	.step-container--3 {
-		background-color: rgba(120, 190, 32, 0.05);
+		background-color: rgba(120, 190, 32, 0.1);
 	}
 
 	.event-footer__info {
@@ -566,9 +572,8 @@ h4.sponsor-title {
 		justify-content: space-between;
 	}
 
-	.school-advisor__column {
-		/*width: 50%;  Commenting out until other column is avaialble */
-		width: 100%;
+	.school-advisor__column, .advisor-column {
+		width: 50%;
 	}
 
 }
@@ -626,17 +631,36 @@ h4.sponsor-title {
 }
 
 
+/* Speaker Styles */
+
+.content_speaker--keynote {
+	border-radius: 50%;
+	max-width: 250px;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.content_speaker {
+	border-radius: 50%;
+	max-width: 150px;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
 
 /* Start Accordion Styles */
 
 .togglebox {
   margin: 0 auto;
+	width: 90%;
+	margin-top: 2em;
+	margin-bottom: 4em;
   background: #fff;
   transform: translateZ(0);
   box-shadow: 0 1px 1px rgba(0,0,0,.1);
 }
 
-input[type="radio"] {
+input[type="checkbox"] {
   position: absolute;
   opacity: 0;
 }
@@ -647,7 +671,7 @@ label {
   height: 50px;
   line-height: 50px;
   padding: 0 20px;
-  font-size: 14px;
+  font-size: 1.4em;
   font-weight: 700;
   border-top: 1px solid #ddd;
   background: #fff;
@@ -688,42 +712,79 @@ label:after {
   max-height: 500em;
 }
 
+#toggle1:checked ~ label[for*='1'],
+#toggle2:checked ~ label[for*='2'],
+#toggle3:checked ~ label[for*='3'],
+#toggle4:checked ~ label[for*='4'] {
+  background-color: #FF6C17;
+	color: white;
+}
+
 .content {
   padding-left: 20px;
 }
 
+.panelists {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
 .panelist {
-  display: inline-block;
+  width: 47%;
+	margin-bottom: 2em;
 }
 
-
-label {
-  font-size: 1.2em;
+@media screen and (min-width: 900px) {
+	.panelist {
+		width: 23%;
+	}
 }
 
-/* These are too generic - need scoped to just a particular section /*
-ul {
-  list-style-type: none;
-  padding: 0.5em;
-  line-height: 1.2;
+.content__video__container {
+	height: 300px;
+	width: 100%;
+	display: block;
+	background-color: gray;
+	max-width: 400px;
+	margin: 0 auto;
 }
 
-p {
-  margin: 15px 0;
-  padding: 0 20px;
-  line-height: 1.5;
+.content__video {
+	margin-top: 2em;
 }
 
-
-
-/* a {
-  text-decoration: none;
-  color: #78BE20;
+@media screen and (min-width: 900px) {
+	.content__keynote {
+		display: flex;
+		justify-content: space-between;
+	}
+	.content__video {
+		width: 45%;
+	}
+	.content__video__container {
+		max-width: inherit;
+	}
 }
 
-a:hover {
-  color: black;
-}*/
+.togglebox h3 {
+	color: #666666;
+	font-size: 1.8em;
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
+
+.togglebox h4 {
+	font-size: 1.4em;
+	color: #0BA0C0;
+	text-transform: uppercase;
+}
+
+.togglebox li {
+	font-size: 1.1em;
+	margin-bottom: .5em;
+}
+
 
 a.hack-btn {
 	text-decoration: none;
@@ -732,7 +793,9 @@ a.hack-btn {
 	border: 1px solid #78BE20;
 	padding: 1.5em;
 	display: inline-block;
-  margin-left: 20px;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 4em;
 }
 
 a.hack-btn:hover {
@@ -743,12 +806,20 @@ a.hack-btn:hover {
 table {
   max-width: 900px;
   border: 1px solid gray;
+	margin: 0 auto;
+	margin-bottom: 3em;
+	text-align:left;
+	margin-top: 2em;
+}
+
+table, th, td {
+	border: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 td {
-  padding: 5px;
-  padding-left: 15px;
+  padding: 1em 15px;
   line-height: 1.5;
+	font-size: 1.1em;
 }
 
 .table_ul {
@@ -756,6 +827,19 @@ td {
   padding-left: 19px;
 }
 
-.table_ol {
+tr td:first-child {
+	background-color: #78BE20;
+	color: white;
+}
+
+table ol, table ul {
   padding-left: 17px;
+	margin-top: 1em;
+	margin-left: 1em;
+	font-size: 1.3rem;
+}
+
+table h5 {
+	margin-top: .25em;
+	padding-top: 0;
 }

@@ -104,7 +104,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
       <ul>
         <li><img class="content_speaker--keynote" src="/wp-content/themes/universe_theme_child/ui/GerardAdamsForWebsite.jpeg" alt="Gerard Adams"></li>
         <h4>GERARD ADAMS</h4>
-        <li>Millennial Mentor, thought leader, entrepreneur, investor, philanthropist</li>
+        <li>The Millennial Mentor™, thought leader, entrepreneur, investor, philanthropist</li>
         <li><a href="http://gerardadams.com/">http://gerardadams.com</a></li>
       </ul>
       <div class="content__video">
@@ -117,7 +117,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
     <ul>
      <li><img class="content_speaker--keynote" src="/wp-content/themes/universe_theme_child/ui/Justin-Lafarzan-Headshot.jpeg" alt="Justin Lafarzan"></li>
       <h4>Justin Lafazan</h4>
-      <li>Next Gen Summit, Entrepreneur, Investor, Speaker, Author</li>
+      <li>Next Gen Summit, entrepreneur, investor, speaker, author</li>
       <li><a href="www.justinlafazan.com">www.justinlafazan.com</a></li>
     </ul>
     <h3>Panelists</h3>
@@ -125,30 +125,42 @@ The Summit is open to all students, whether or not they compete in the Challenge
     <ul class="panelist">
        <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Brennan.jpg"></li>
        <h4>Brennan Agranoff</h4>
-      <li><strong>Panelist</strong></li>
-      <li>Founder & CEO, Hoopswagg</li>
+      <li>Founder & CEO-Hoopswagg</li>
       <li><a href="hoopswagg.com">hoopswagg.com</a></li>
+    </ul>
+    <ul class="panelist">
+       <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/profile-placeholder.jpg"></li>
+       <h4>Will Lynch</h4>
+      <li>Founder-Lynch Design</li>
+      <li><a href="http://www.lynchdesignflorist.com">lynchdesignflorist.com</a></li>
     </ul>
     <ul class="panelist">
     <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Deep_Patel.JPG" alt="Deep Patel"></li>
       <h4>Deep Patel</h4>
-      <li><strong>Panelist</strong></li>
       <li>Entrepreneur, marketer, author</li>
       <li><a href="deeppatel.com">deeppatel.com</a></li>
     </ul>
     <ul class="panelist">
+    <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/profile-placeholder.jpg" alt=""></li>
+      <h4>Matthew Stauffer</h4>
+      <li>Founder-21 SOX</li>
+      <li><a href="https://www.etsy.com/shop/21SOX">etsy.com/shop/21SOX</a></li>
+    </ul>
+    <ul class="panelist panelist-blank">
+    </ul>
+    <ul class="panelist">
        <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Benjamin.jpg"></li>
       <h4>Benjamin Stern</h4>
-      <li><strong>Panelist</strong></li>
-      <li>Founder, Nohbo</li>
+      <li>Founder-Nohbo</li>
       <li><a href="nohboball.com">nohboball.com</a></li>
     </ul>
     <ul class="panelist">
      <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Haile.jpg"></li>
-     <h4>NAME</h4>
-      <li><strong>Panelist</strong></li>
+     <h4>Haile Thomas</h4>
       <li>Motivational speaker, youth health advocate, vegan chef</li>
       <li><a href="hailevthomas.com">hailevthomas.com</a></li>
+    </ul>
+    <ul class="panelist panelist-blank">
     </ul>
   </div>
   </section>
@@ -174,29 +186,29 @@ The Summit is open to all students, whether or not they compete in the Challenge
       </tr>
       <tr>
         <td>9:15am</td>
-        <td><em>Drive</em> - Gerard Adams<br />Gerard Adams became a self-made, multi-millionaire at the age of 24, having overcome many personal and financial obstacles to create the much-loved news platform EliteDaily.com, which sold for $50 million. A serial entrepreneur, angel investor, and philanthropist, Gerard currently dedicates his time to mentoring the next generation of creators and innovators to believe that the lives they dream of are not out of reach, but attainable through leadership, creativity, self confidence, and drive.
+        <td><h5><em>Drive</em> - Gerard Adams</h5><br />Gerard Adams became a self-made, multi-millionaire at the age of 24, having overcome many personal and financial obstacles to create the much-loved news platform EliteDaily.com, which sold for $50 million. A serial entrepreneur, angel investor, and philanthropist, Gerard currently dedicates his time to mentoring the next generation of creators and innovators to believe that the lives they dream of are not out of reach, but attainable through leadership, creativity, self confidence, and drive.
 </td>
       </tr>
       <tr>
         <td>10:00am</td>
-        <td>Innovation Challenge FINAL FOUR Presentations</td>
+        <td><h5>Innovation Challenge FINAL FOUR Presentations</h5></td>
       </tr>
       <tr>
         <td>10:30am</td>
-        <td>BREAK</td>
+        <td><h5>BREAK</h5></td>
       </tr>
       <tr>
         <td>10:45am</td>
-        <td>Mini Maker Hackathon  - Presented by Upcycle Parts Shop</td>
+        <td><h5>Mini Maker Hackathon  - Presented by Upcycle Parts Shop</h5></td>
       </tr>
       <tr>
         <td>12:30pm</td>
-        <td>Lunch</td>
+        <td><h5>Lunch</h5></td>
       </tr>
       <tr>
         <td>1:15pm</td>
         <td>
-          <em>Phenoms!</em> - Justin Lafazan, Moderator<br />
+          <h5><em>Phenoms!</em> - Justin Lafazan, Moderator</h5><br />
           Invited teen innovators deliver Pecha Kucha (20x20) or IGNITE (20x15) style, 5-6 minute talks, Q&A
 <ol class="table_ol">
   <li>Brennan Agranoff, Founder, HoopSwagg (confirmed, Oregon)</li>
@@ -207,12 +219,12 @@ The Summit is open to all students, whether or not they compete in the Challenge
       </tr>
       <tr>
         <td>2:15pm</td>
-        <td>BREAK + Mini Maker Vote</td>
+        <td><h5>BREAK + Mini Maker Vote</h5></td>
       </tr>
       <tr>
         <td>2:30pm</td>
         <td>
-          <em>Hustling in the Land</em> - Justin Lafazan, Moderator
+          <h5><em>Hustling in the Land</em> - Justin Lafazan, Moderator</h5>
           <br />
           Teen founders from NEO (current Veale students and Veale alum, if available)
           <ol class="table_ol">
@@ -224,19 +236,19 @@ The Summit is open to all students, whether or not they compete in the Challenge
         </td></tr>
       <tr>
         <td>3:30pm</td>
-        <td>Mini Maker Hackathon - Final Four Demonstrations and Audience Noisemaker Vote</td>
+        <td><h5>Mini Maker Hackathon - Final Four Demonstrations and Audience Noisemaker Vote</h5></td>
       </tr>
       <tr>
         <td>4:00pm</td>
-        <td>Innovation Challenge Awards</td>
+        <td><h5>Innovation Challenge Awards</h5></td>
       </tr>
       <tr>
         <td>4:30pm</td>
-        <td>Gerard Adams - Inspirational Wrap Up</td>
+        <td><h5>Gerard Adams - Inspirational Wrap Up</h5></td>
       </tr>
       <tr>
         <td>5:00pm</td>
-        <td>Closing, Reception</td>
+        <td><h5>Closing, Reception</h5></td>
       </tr>
     </table>
   </section>

@@ -715,7 +715,7 @@ label:after {
 #toggle1:checked ~ label[for*='1'],
 #toggle2:checked ~ label[for*='2'],
 #toggle3:checked ~ label[for*='3'],
-#toggle4:checked ~ label[for*='4'] {
+#toggle4:checked ~ label[for*='4'], #toggle1:hover {
   background-color: #FF6C17;
 	color: white;
 }
@@ -735,10 +735,20 @@ label:after {
 	margin-bottom: 2em;
 }
 
+.panelist-blank {
+	display: none;
+}
+
 @media screen and (min-width: 900px) {
 	.panelist {
 		width: 23%;
+		margin-left: auto;
+		margin-right: auto;
 	}
+}
+
+.panelist-blank {
+	display: block;
 }
 
 .content__video__container {

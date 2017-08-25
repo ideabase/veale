@@ -669,9 +669,9 @@ label {
   position: relative;
   display: block;
   height: 50px;
-  line-height: 50px;
+  line-height: 56px;
   padding: 0 20px;
-  font-size: 1.4em;
+  font-size: 1.6em;
   font-weight: 700;
   border-top: 1px solid #ddd;
   background: #fff;

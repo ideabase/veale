@@ -174,87 +174,18 @@ The Summit is open to all students, whether or not they compete in the Challenge
 
   <section class="content" id="content2">
     <h3>The Summit Agenda</h3>
-    <table class="content_agenda">
-      <tr>
-        <td>8:30am</td>
-        <td><h5>Check In</h5></td>
-      </tr>
-      <tr>
-        <td>9:00am</td>
-        <td><h5>Welcome and opening remarks</h5>
-          <ul class="table_ul">
-            <li>Cynthia Bailie, Executive Director, Veale Youth Entrepreneurship Forum</li>
-            <li>Justin Lafazan, Emcee, thinkBIG! Summit, Co-founder, Next Gen Summit</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td>9:15am</td>
-        <td><h5><em>Drive</em> - Gerard Adams</h5><br />Gerard Adams became a self-made, multi-millionaire at the age of 24, having overcome many personal and financial obstacles to create the much-loved news platform EliteDaily.com, which sold for $50 million. A serial entrepreneur, angel investor, and philanthropist, Gerard currently dedicates his time to mentoring the next generation of creators and innovators to believe that the lives they dream of are not out of reach, but attainable through leadership, creativity, self confidence, and drive.
-</td>
-      </tr>
-      <tr>
-        <td>10:00am</td>
-        <td><h5>Innovation Challenge FINAL FOUR Presentations</h5></td>
-      </tr>
-      <tr>
-        <td>10:30am</td>
-        <td><h5>BREAK</h5></td>
-      </tr>
-      <tr>
-        <td>10:45am</td>
-        <td><h5>Mini Maker Hackathon  - Presented by Upcycle Parts Shop</h5></td>
-      </tr>
-      <tr>
-        <td>12:30pm</td>
-        <td><h5>Lunch</h5></td>
-      </tr>
-      <tr>
-        <td>1:15pm</td>
-        <td>
-          <h5><em>Phenoms!</em> - Justin Lafazan, Moderator</h5><br />
-          Invited teen innovators deliver Pecha Kucha (20x20) or IGNITE (20x15) style, 5-6 minute talks, Q&A
-<ol class="table_ol">
-  <li>Brennan Agranoff, Founder, HoopSwagg (confirmed, Oregon)</li>
-  <li>Deep Patel, Author, A Paperboy's Fable: The 11 Principles of Success (confirmed, Georgia)</li>
-  <li>Benjamin Stern  - Nohbo Shampoo pod shark tank Mark Cuban investee  (confirmed, Melbourne, FL)</li>
-  <li>Haile Thomas – healthy food advocate; founder, the HAPPY Org (confirmed, NYC)</li>
-          </ol></td>
-      </tr>
-      <tr>
-        <td>2:15pm</td>
-        <td><h5>BREAK + Mini Maker Vote</h5></td>
-      </tr>
-      <tr>
-        <td>2:30pm</td>
-        <td>
-          <h5><em>Hustling in the Land</em> - Justin Lafazan, Moderator</h5>
-          <br />
-          Teen founders from NEO (current Veale students and Veale alum, if available)
-          <ol class="table_ol">
-            <li>Will Lynch (confirmed)(US, JCU)</li>
-            <li>Giles and Noah Foster (SHHS)</li>
-            <li>Quiyanni Smith (Beaumont, Miami)</li>
-            <li>Matthew Stauffer (Benedictine)</li>
-          </ol>
-        </td></tr>
-      <tr>
-        <td>3:30pm</td>
-        <td><h5>Mini Maker Hackathon - Final Four Demonstrations and Audience Noisemaker Vote</h5></td>
-      </tr>
-      <tr>
-        <td>4:00pm</td>
-        <td><h5>Innovation Challenge Awards</h5></td>
-      </tr>
-      <tr>
-        <td>4:30pm</td>
-        <td><h5>Gerard Adams - Inspirational Wrap Up</h5></td>
-      </tr>
-      <tr>
-        <td>5:00pm</td>
-        <td><h5>Closing, Reception</h5></td>
-      </tr>
-    </table>
+    <?php
+    $page = get_posts(
+        array(
+            'name'      => 'thinkbig-agenda',
+            'post_type' => 'page'
+        )
+    );
+    if ( $page )
+    {
+        echo $page[0]->post_content;
+    }
+    ?>
   </section>
 
   <input id="toggle3" type="checkbox" name="toggle" />

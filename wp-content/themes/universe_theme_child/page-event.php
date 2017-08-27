@@ -302,10 +302,18 @@ The Summit is open to all students, whether or not they compete in the Challenge
   	<div class="school-advisor__column">
   			<h4 class="sponsor-title">School Partners</h4>
   			<ul>
-  				<li>Beachwood High School</li>
-  				<li>Copley High School</li>
-          <li>Cuyahoga Valley Christian Academy</li>
-          <li>GlenOak High School</li>
+          <?php
+          $page = get_posts(
+              array(
+                  'name'      => 'thinkbig-high-school-partners',
+                  'post_type' => 'page'
+              )
+          );
+          if ( $page )
+          {
+              echo $page[0]->post_content;
+          }
+          ?>
   			</ul>
   	</div>
   </div>

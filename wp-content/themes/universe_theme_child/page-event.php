@@ -109,7 +109,11 @@ The Summit is open to all students, whether or not they compete in the Challenge
       </ul>
       <div class="content__video">
         <div class="content__video__container">
-          VIDEO EMBED GOES HERE
+          <video src="/wp-content/themes/universe_theme_child/ui/sizzle-small.mp4" controls preload="auto" poster="/wp-content/themes/universe_theme_child/ui/video-thumb.jpg">
+          Sorry, your browser doesn't support embedded videos,
+          but don't worry, you can <a href="/wp-content/themes/universe_theme_child/ui/sizzle-small.mp4">download it</a>
+          and watch it with your favorite video player!
+          </video>
         </div>
       </div>
     </div>

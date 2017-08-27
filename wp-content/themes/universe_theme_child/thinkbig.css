@@ -668,18 +668,15 @@ input[type="checkbox"] {
 label {
   position: relative;
   display: block;
-  height: 50px;
-  line-height: 56px;
+  height: 60px;
+  line-height: 60px;
   padding: 0 20px;
   font-size: 1.6em;
   font-weight: 700;
-  border-top: 1px solid #ddd;
+  border: 1px solid #FF6C17;
   background: #fff;
   cursor: pointer;
-}
-
-label[for*='1'] {
-  border: 0;
+	margin-bottom: 10px;
 }
 
 label:after {
@@ -690,6 +687,12 @@ label:after {
   font-family: fontawesome;
   transform: rotate(90deg);
   transition: .3s transform;
+}
+
+label:hover, label:focus {
+	background-color: #FF6C17;
+	transition: .3s all ease-in-out;
+	color: white;
 }
 
 .content {

@@ -105,7 +105,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
       <ul>
         <li><a href="http://gerardadams.com/"><img class="content_speaker--keynote" src="/wp-content/themes/universe_theme_child/ui/GerardAdamsForWebsite.jpeg" alt="Gerard Adams"></a></li>
         <h4>GERARD ADAMS</h4>
-        <li>The Millennial Mentor™, thought leader, social entrepreneur, angel investor, philanthropist</li>
+        <li>The Millennial Mentor™, thought leader, serial entrepreneur, angel investor, philanthropist</li>
       </ul>
       <div class="content__video">
         <div class="content__video__container">

@@ -78,6 +78,7 @@ get_header(); ?>
 			<h3 class="step-title">Attend the Summit</h3>
 	<p class="step-description">Inspire your students. Plus, it's free! (Registration coming soon)</p>
 	 <a data-scroll class="btn step-3-btn" href="#summit"> Find Out More</a>
+   <a data-scroll class="btn step-3-btn" href="http://stage.vealeentrepreneurs.org/thinkbig/register/"> Register Now</a>
 		</div>
 	</div>
  </section>
@@ -102,10 +103,9 @@ The Summit is open to all students, whether or not they compete in the Challenge
     <h3>Keynote Speaker</h3>
     <div class="content__keynote">
       <ul>
-        <li><img class="content_speaker--keynote" src="/wp-content/themes/universe_theme_child/ui/GerardAdamsForWebsite.jpeg" alt="Gerard Adams"></li>
+        <li><a href="http://gerardadams.com/"><img class="content_speaker--keynote" src="/wp-content/themes/universe_theme_child/ui/GerardAdamsForWebsite.jpeg" alt="Gerard Adams"></a></li>
         <h4>GERARD ADAMS</h4>
-        <li>The Millennial Mentor™, thought leader, entrepreneur, investor, philanthropist</li>
-        <li><a href="http://gerardadams.com/">http://gerardadams.com</a></li>
+        <li>The Millennial Mentor™, thought leader, social entrepreneur, angel investor, philanthropist</li>
       </ul>
       <div class="content__video">
         <div class="content__video__container">
@@ -119,50 +119,44 @@ The Summit is open to all students, whether or not they compete in the Challenge
     </div>
     <h3>Emcee</h3>
     <ul>
-     <li><img class="content_speaker--keynote" src="/wp-content/themes/universe_theme_child/ui/Justin-Lafarzan-Headshot.jpeg" alt="Justin Lafarzan"></li>
+     <li><a href="www.justinlafazan.com"><img class="content_speaker--keynote" src="/wp-content/themes/universe_theme_child/ui/Justin-Lafarzan-Headshot.jpeg" alt="Justin Lafarzan"></a></li>
       <h4>Justin Lafazan</h4>
       <li>Next Gen Summit, entrepreneur, investor, speaker, author</li>
-      <li><a href="www.justinlafazan.com">www.justinlafazan.com</a></li>
     </ul>
     <h3>Panelists</h3>
     <div class="panelists">
     <ul class="panelist">
-       <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Brennan.jpg"></li>
+       <li><a href="hoopswagg.com"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Brennan.jpg"></a></li>
        <h4>Brennan Agranoff</h4>
       <li>Founder & CEO-Hoopswagg</li>
-      <li><a href="hoopswagg.com">hoopswagg.com</a></li>
+
     </ul>
     <ul class="panelist">
-       <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/profile-placeholder.jpg"></li>
+       <li><a href="http://www.lynchdesignflorist.com"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/profile-placeholder.jpg"></a></li>
        <h4>Will Lynch</h4>
       <li>Founder-Lynch Design</li>
-      <li><a href="http://www.lynchdesignflorist.com">lynchdesignflorist.com</a></li>
     </ul>
     <ul class="panelist">
-    <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Deep_Patel.JPG" alt="Deep Patel"></li>
+    <li><a href="www.deeppatel.com"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Deep_Patel.JPG" alt="Deep Patel"></a></li>
       <h4>Deep Patel</h4>
       <li>Entrepreneur, marketer, author</li>
-      <li><a href="deeppatel.com">deeppatel.com</a></li>
     </ul>
     <ul class="panelist">
-    <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/profile-placeholder.jpg" alt=""></li>
+    <li><a href="https://www.etsy.com/shop/21SOX"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/profile-placeholder.jpg" alt="Matthew Stauffer"></a></li>
       <h4>Matthew Stauffer</h4>
       <li>Founder-21 SOX</li>
-      <li><a href="https://www.etsy.com/shop/21SOX">etsy.com/shop/21SOX</a></li>
     </ul>
     <ul class="panelist panelist-blank">
     </ul>
     <ul class="panelist">
-       <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Benjamin.jpg"></li>
+       <li><a href="nohboball.com"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Benjamin.jpg" alt="Benjamin Stern"></a></li>
       <h4>Benjamin Stern</h4>
       <li>Founder-Nohbo</li>
-      <li><a href="nohboball.com">nohboball.com</a></li>
     </ul>
     <ul class="panelist">
-     <li><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Haile.jpg"></li>
+     <li><a href="hailevthomas.com"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Haile.jpg" alt="Haile Thomas"></a></li>
      <h4>Haile Thomas</h4>
       <li>Motivational speaker, youth health advocate, vegan chef</li>
-      <li><a href="hailevthomas.com">hailevthomas.com</a></li>
     </ul>
     <ul class="panelist panelist-blank">
     </ul>
@@ -211,6 +205,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
 		<li><a target="_blank" href="http://connorblakley.com"><img src="/wp-content/themes/universe_theme_child/ui/connor-blakeley.png" alt="YouthLogic" /></a></li>
 		<li><a target="_blank" href="http://www.case.edu/universitycenter"><img src="/wp-content/themes/universe_theme_child/ui/tinkham-veale.jpeg" alt="TVUC@CWRU" /></a></li>
     <li><a target="_blank" href="http://fownders.com/about/"><img src="/wp-content/themes/universe_theme_child/ui/fownders.png" alt="Fownders" /></a></li>
+    <li><a target="_blank" href="https://wildfire-education.org/"><img src="/wp-content/themes/universe_theme_child/ui/WildfireEd-logo.png" alt="Wildfire Education" /></a></li>
 	</ul>
   </div>
 <div class="sponsor-partner">

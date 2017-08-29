@@ -132,7 +132,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
 
     </ul>
     <ul class="panelist">
-       <li><a href="http://www.lynchdesignflorist.com"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/profile-placeholder.jpg"></a></li>
+       <li><a href="http://www.lynchdesignflorist.com"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/WillLynchLynchDesign.png"></a></li>
        <h4>Will Lynch</h4>
       <li>Founder-Lynch Design</li>
     </ul>
@@ -142,7 +142,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
       <li>Entrepreneur, marketer, author</li>
     </ul>
     <ul class="panelist">
-    <li><a href="https://www.etsy.com/shop/21SOX"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/profile-placeholder.jpg" alt="Matthew Stauffer"></a></li>
+    <li><a href="https://www.etsy.com/shop/21SOX"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/MattStauffer1.jpg" alt="Matthew Stauffer"></a></li>
       <h4>Matthew Stauffer</h4>
       <li>Founder-21 SOX</li>
     </ul>
@@ -167,7 +167,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
   <label for="toggle2">Agenda</label>
 
   <section class="content" id="content2">
-    <h3>The Summit Agenda</h3>
+    <h3><a href="http://stage.vealeentrepreneurs.org/thinkbig-agenda/">The Summit Agenda</a></h3>
     <?php
     $page = get_posts(
         array(

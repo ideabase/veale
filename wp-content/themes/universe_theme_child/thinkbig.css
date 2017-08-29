@@ -820,7 +820,7 @@ a.hack-btn:hover {
 	background-color: #78BE20;
 }
 
-table {
+.content_agenda {
   max-width: 900px;
   border: 1px solid gray;
 	margin: 0 auto;
@@ -829,11 +829,11 @@ table {
 	margin-top: 2em;
 }
 
-table, th, td {
+.content_agenda, .content_agenda th, .content_agenda td {
 	border: 1px solid rgba(0, 0, 0, 0.2);
 }
 
-td {
+.content_agenda td {
   padding: 1em 15px;
   line-height: 1.5;
 	font-size: 1.1em;
@@ -844,13 +844,13 @@ td {
   padding-left: 19px;
 }
 
-tr td:first-child {
+.content_agenda tr td:first-child {
 	background-color: #78BE20;
 	color: white;
 }
 
 table ol, table ul {
-  padding-left: 17px;
+  padding-lseft: 17px;
 	margin-top: 1em;
 	margin-left: 1em;
 	font-size: 1.3rem;

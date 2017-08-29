@@ -665,12 +665,12 @@ video {
 	max-width: 100%;
 }
 
-input[type="checkbox"] {
+.togglebox input[type="checkbox"] {
   position: absolute;
   opacity: 0;
 }
 
-label {
+.togglebox label {
   position: relative;
   display: block;
   height: 60px;
@@ -684,7 +684,7 @@ label {
 	margin-bottom: 10px;
 }
 
-label:after {
+.togglebox label:after {
   content: '\f078';
   position: absolute;
   top: 0px;
@@ -694,7 +694,7 @@ label:after {
   transition: .3s transform;
 }
 
-label:hover, label:focus {
+.togglebox label:hover, .togglebox label:focus {
 	background-color: #FF6C17;
 	transition: .3s all ease-in-out;
 	color: white;

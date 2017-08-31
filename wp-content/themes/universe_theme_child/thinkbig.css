@@ -221,6 +221,7 @@ h4.sponsor-title {
   font-size: 15px;
 }
 
+
 a.step-1-btn {
 	color: #ED008C;
 	border-color:#ED008C;
@@ -250,6 +251,18 @@ a.step-3-btn:hover {
 	color: white;
 	background-color: #78BE20;
 }
+
+a.btn--reverse {
+	color: white;
+	background-color: #78BE20;
+	margin-left: .5em;
+}
+
+a.btn--reverse:hover {
+	color: #78BE20;
+	background-color: transparent;
+}
+
 
 .circle {
 	display: none;
@@ -401,6 +414,15 @@ h4.sponsor-title {
 
 .sponsor-partner {
 	margin-bottom: 3em;
+
+}
+
+.event-partner {
+	margin-top: 4em;
+}
+
+.maker-hackathon p {
+	margin-top: 2em;
 }
 
 @media screen and (min-width: 600px)
@@ -440,19 +462,19 @@ h4.sponsor-title {
 
 	.sponsor-partner {
 		display: flex;
-		width: 80%;
+		width: 100%;
 		margin: 0 auto;
 		justify-content: space-between;
 	align-items: center;
 	margin-bottom: 3em;
 }
 		.sponsor-partner h4 {
-			width: 25%;
+			width: 20%;
       font-size:1.3em;
 		}
 
 		.sponsor-partner ul {
-			width: 75%;
+			width: 80%;
 			display: flex;
 			/*justify-content: space-between;*/
 			align-items: center;
@@ -655,8 +677,8 @@ h4.sponsor-title {
 .togglebox {
   margin: 0 auto;
 	width: 90%;
-	margin-top: 2em;
-	margin-bottom: 4em;
+	margin-top: 3em;
+	margin-bottom: 3em;
   background: #fff;
   transform: translateZ(0);
 }

@@ -104,7 +104,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
     <div class="content__keynote">
       <ul>
         <li><a href="http://gerardadams.com/" target="_blank"><img class="content_speaker--keynote" src="/wp-content/themes/universe_theme_child/ui/GerardAdamsForWebsite.jpeg" alt="Gerard Adams"></a></li>
-        <h4>GERARD ADAMS</h4>
+        <h4><a href="http://gerardadams.com/" target="_blank">GERARD ADAMS</a></h4>
         <li>The Millennial Mentor™, thought leader, serial entrepreneur, angel investor, philanthropist</li>
       </ul>
       <div class="content__video">
@@ -120,47 +120,47 @@ The Summit is open to all students, whether or not they compete in the Challenge
     <h3>Emcee</h3>
     <ul>
      <li><a href="https://www.justinlafazan.com"target="_blank"><img class="content_speaker--keynote" src="/wp-content/themes/universe_theme_child/ui/Justin-Lafarzan-Headshot.jpeg" alt="Justin Lafarzan"></a></li>
-      <h4>Justin Lafazan</h4>
+      <h4><a href="https://www.justinlafazan.com"target="_blank">Justin Lafazan</a></h4>
       <li>Next Gen Summit, entrepreneur, investor, speaker, author</li>
     </ul>
     <h3>Panelists</h3>
     <div class="panelists">
     <ul class="panelist">
        <li><a href="https://www.hoopswagg.com"target="_blank"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Brennan.jpg" alt="Brennan Arganoff"></a></li>
-       <h4>Brennan Agranoff</h4>
+       <h4><a href="https://www.hoopswagg.com"target="_blank">Brennan Agranoff</a></h4>
       <li>Founder & CEO-Hoopswagg</li>
     </ul>
 
 
     <ul class="panelist">
-       <li><a href="http://www.lynchdesignflorist.com"target="_blank"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/WillLynchLynchDesign.png"alt="Will Lynch"></a></li>
-       <h4>Will Lynch</h4>
+       <li><a href="http://www.lynchdesignflorist.com" target="_blank"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/WillLynchLynchDesign.png"alt="Will Lynch"></a></li>
+       <h4><a href="http://www.lynchdesignflorist.com" target="_blank">Will Lynch</a></h4>
       <li>Founder-Lynch Design</li>
     </ul>
     <ul class="panelist">
     <li><a href="https://www.deeppatel.com"target="_blank"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Deep_Patel.JPG" alt="Deep Patel"></a></li>
-      <h4>Deep Patel</h4>
+      <h4><a href="https://www.deeppatel.com"target="_blank">Deep Patel</a></h4>
       <li>Entrepreneur, marketer, author</li>
     </ul>
     <ul class="panelist">
-       <li><a target="_blank"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/QuiyanniSmithCakies.png"alt="Quiyanni Smith"></a></li>
-       <h4>Quiylanni Smith</h4>
+       <li><a href="https://www.facebook.com/cakiescustomcreationz/" target="_blank"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/QuiyanniSmithCakies.png"alt="Quiyanni Smith"></a></li>
+       <h4><a href="https://www.facebook.com/cakiescustomcreationz/" target="_blank">Quiylanni Smith</a></h4>
       <li>Founder & CEO-Cakies Custom Creationz & Cakies Cares</li>
     </ul>
     <ul class="panelist">
     <li><a href="https://www.etsy.com/shop/21SOX"target="_blank"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/MattStauffer1.jpg" alt="Matthew Stauffer"></a></li>
-      <h4>Matthew Stauffer</h4>
+      <h4><a href="https://www.etsy.com/shop/21SOX"target="_blank">Matthew Stauffer</a></h4>
       <li>Founder-21 SOX</li>
     </ul>
 
     <ul class="panelist">
        <li><a href="https://www.nohboball.com"target="_blank"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Benjamin.jpg" alt="Benjamin Stern"></a></li>
-      <h4>Benjamin Stern</h4>
+      <h4><a href="https://www.nohboball.com"target="_blank">Benjamin Stern</a></h4>
       <li>Founder-Nohbo</li>
     </ul>
     <ul class="panelist">
      <li><a href="https://www.hailevthomas.com"target="_blank"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/Haile.jpg" alt="Haile Thomas"></a></li>
-     <h4>Haile Thomas</h4>
+     <h4><a href="https://www.hailevthomas.com"target="_blank">Haile Thomas</a></h4>
       <li>Motivational speaker, youth health advocate, vegan chef</li>
     </ul>
 

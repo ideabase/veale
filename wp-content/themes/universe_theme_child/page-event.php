@@ -131,6 +131,11 @@ The Summit is open to all students, whether or not they compete in the Challenge
       <li>Founder & CEO-Hoopswagg</li>
     </ul>
 
+    <ul class="panelist">
+       <li><a href="http://sudsbrewingco.com/" target="_blank"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/foster.jpg" alt="Noah & Giles Foster"></a></li>
+       <h4><a href="http://sudsbrewingco.com/" target="_blank">Noah &amp; Giles Foster</a></h4>
+      <li>Founders-Suds Brewing Company</li>
+    </ul>
 
     <ul class="panelist">
        <li><a href="http://www.lynchdesignflorist.com" target="_blank"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/WillLynchLynchDesign.png"alt="Will Lynch"></a></li>
@@ -209,14 +214,14 @@ The Summit is open to all students, whether or not they compete in the Challenge
 		<li><a target="_blank" href="http://connorblakley.com"><img src="/wp-content/themes/universe_theme_child/ui/connor-blakeley.png" alt="YouthLogic" /></a></li>
 		<li><a target="_blank" href="http://www.case.edu/universitycenter"><img src="/wp-content/themes/universe_theme_child/ui/tinkham-veale.jpeg" alt="TVUC@CWRU" /></a></li>
     <li><a target="_blank" href="http://fownders.com/about/"><img src="/wp-content/themes/universe_theme_child/ui/fownders.png" alt="Fownders" /></a></li>
-    <li><a target="_blank" href="https://wildfire-education.org/"><img src="/wp-content/themes/universe_theme_child/ui/WildfireEd-logo.png" alt="Wildfire Education" /></a></li>
+    <li><a target="_blank" href="https://wildfire-education.org/"><img src="/wp-content/themes/universe_theme_child/ui/WildfireEd-logo.jpg" alt="Wildfire Education" /></a></li>
 	</ul>
   </div>
 <div class="sponsor-partner">
 	<h4 class="sponsor-title">Partners</h4>
 	<ul>
-		<li><a target="_blank" href="http://www.gcesc.k12.oh.us/"><img src="/wp-content/themes/universe_theme_child/ui/geauga-logo.png" alt="Geauga ESC" /></a></li>
-		<li><a target="_blank" href="https://www.ngsummit.com"><img src="/wp-content/themes/universe_theme_child/ui/Nextgen.png" alt="NextGen Summit" /></a></li>
+		<li><a target="_blank" href="http://www.gcesc.k12.oh.us/"><img src="/wp-content/themes/universe_theme_child/ui/geauga-logo.jpg" alt="Geauga ESC" /></a></li>
+		<li><a target="_blank" href="https://www.ngsummit.com"><img style="width: 60px;" src="/wp-content/themes/universe_theme_child/ui/Nextgen.png" alt="NextGen Summit" /></a></li>
     <li><a  target="_blank" href="https://www.upcyclepartsshop.org"><img src="/wp-content/themes/universe_theme_child/ui/uncycle-parts.png" alt="Upcycle Parts Shop" /></a></li>
     <li><a  target="_blank" href="https://www.ideabasekent.com/"><img src="/wp-content/themes/universe_theme_child/ui/ideabaselogo.png" alt="IdeaBase Kent" /></a></li>
 	</ul>

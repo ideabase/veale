@@ -149,7 +149,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
     </ul>
     <ul class="panelist">
        <li><a href="https://www.facebook.com/cakiescustomcreationz/" target="_blank"><img class="content_speaker" src="/wp-content/themes/universe_theme_child/ui/QuiyanniSmithCakies.png"alt="Quiyanni Smith"></a></li>
-       <h4><a href="https://www.facebook.com/cakiescustomcreationz/" target="_blank">Quiylanni Smith</a></h4>
+       <h4><a href="https://www.facebook.com/cakiescustomcreationz/" target="_blank">Quiyanni Smith</a></h4>
       <li>Founder & CEO-Cakies Custom Creationz & Cakies Cares</li>
     </ul>
     <ul class="panelist">
@@ -199,7 +199,7 @@ The Summit is open to all students, whether or not they compete in the Challenge
     <p>
       A sprint-like design event that includes team members of various subject matter expertise who collaborate intensively to generate ideas and/or a product. The term originated with computer programmers and software developers.
     </p>
-    <a class="hack-btn" href="http://stage.vealeentrepreneurs.org/hackathon/">Learn More About the Hackathon</a>
+    <a class="hack-btn" href="/thinkbig/hackathon/">Learn More About the Hackathon</a>
   </section>
 
   <input id="toggle4" type="checkbox" name="toggle" />
